@@ -1,0 +1,1284 @@
+﻿id,customerName,poNo,product,cost,sourcePage
+PRI-0001,Advanced Waste Water System,0,HF3038 (IBC),"$1,985.00",1
+PRI-0002,Advantage Engineering,0,HF558 (20L),$420.00,1
+PRI-0003,Advantage Engineering,0,HF628 (20L),$120.00,1
+PRI-0004,Agri Exchange - Sunraysia Citrus Pack House,0,HF 125 10Kg,$189.00,1
+PRI-0005,Air Liquide Australia Ltd - Botany Industrial P,0,Demin / RO Water,$535.00,1
+PRI-0006,Air Liquide Australia Ltd - Botany Industrial P,0,HF655 (15L),$558.00,1
+PRI-0007,Air Liquide Australia Ltd - Elizabeth,0,Softener salt 15KG,$9.80,1
+PRI-0008,Air Liquide Australia Ltd - Sunshine North,0,HF 845 (20 L),$137.00,1
+PRI-0009,Air Liquide Australia Ltd - Wacol,AUALA00265170,HF 558 - 20KG,$396.00,1
+PRI-0010,Air Liquide Australia Ltd - Wacol,AUALA00265170,Softener salt 25KG,$28.00,1
+PRI-0011,Airdinkum - Newcrest Mining,0,HF 133 (L),$9.80,1
+PRI-0012,Airdinkum - Newcrest Mining,0,HF 558 (20L),$388.00,1
+PRI-0013,Amcor Flexibles Australia - 15-31 Keys Road,0,HF 133 (20 L),$226.00,2
+PRI-0014,Amcor Flexibles Australia - 15-31 Keys Road,0,HF 305 (20 L),$122.00,2
+PRI-0015,Amcor Flexibles Australia - 15-31 Keys Road,0,HF 307 (20 L),$122.00,2
+PRI-0016,Amcor Flexibles Australia - 15-31 Keys Road,0,HF 510 (15 L),$117.00,2
+PRI-0017,Amcor Flexibles Australia - 15-31 Keys Road,0,HF 510 (20 L),$156.00,2
+PRI-0018,Amcor Flexibles Australia - 15-31 Keys Road,0,HF 532 (20 L),$196.00,2
+PRI-0019,Amcor Flexibles Australia - 15-31 Keys Road,0,HF 558 (20 L),$448.00,2
+PRI-0020,Amcor Flexibles Australia - 15-31 Keys Road,0,HF198 (15 L),$118.00,2
+PRI-0021,Amcor Flexibles Australia - 83-99 Keys Road,0,HF 133 15L,$225.00,2
+PRI-0022,Amcor Flexibles Australia - 83-99 Keys Road,0,HF 558 15L,$360.00,2
+PRI-0023,Amcor Flexibles Australia - 83-99 Keys Road,0,HF510 15L,$285.00,2
+PRI-0024,AMR Hewitts Print Packaging,0,HF 558 (20L),$398.00,2
+PRI-0025,Andrew Kohn Pty Ltd,,HF 195 (15L),$95.00,2
+PRI-0026,Andrew Kohn Pty Ltd,0,Bleed solenoid valve,$178.00,2
+PRI-0027,Andrew Kohn Pty Ltd,0,HF 133 (15L),$210.00,2
+PRI-0028,Andrew Kohn Pty Ltd,0,HF 198 (15L),$118.00,2
+PRI-0029,Andrew Kohn Pty Ltd,0,HF 307 (15L),$145.00,2
+PRI-0030,Andrew Kohn Pty Ltd,0,HF 510 (15L),$330.00,2
+PRI-0031,Andrew Kohn Pty Ltd,0,HF 558 (20L),$460.00,2
+PRI-0032,ANSTO - Australian Synchrotron,0,HF 322 (20L),$0.00,2
+PRI-0033,ANSTO - Australian Synchrotron,0,HF 510 (15L),$186.00,2
+PRI-0034,ANSTO - Australian Synchrotron,0,HF 558 (20L),$440.00,2
+PRI-0035,ANSTO - Australian Synchrotron,0,HF 559 (20L),$498.00,2
+PRI-0036,Applied Air Conditioning Servicing - Subaru (H,,Corrosion Coupon Rack,$448.00,3
+PRI-0037,Applied Air Conditioning Servicing - Subaru (H,,Coupon Holder,$72.00,3
+PRI-0038,Applied Air Conditioning Servicing - Subaru (H,,HF 510 15L,$160.00,3
+PRI-0039,Applied Air Conditioning Servicing - Subaru (H,,Squeeze Tube,$57.00,3
+PRI-0040,Aquamoves,81854,HF 559 (L),$29.60,3
+PRI-0041,Aquamoves,81854,HF532 (20L),$330.00,3
+PRI-0042,Aquamoves,81854,HF532 (L),$16.50,3
+PRI-0043,Aquamoves,81854,HF559 (20L),$592.00,3
+PRI-0044,Arora Precious Metal refinery,0,HF260 (20L),$488.00,3
+PRI-0045,Arrow Plastics,0,HF 133 (20L) - Fr Oct 19,$328.00,3
+PRI-0046,Arrow Plastics,0,HF 558 (20L) - Fr Oct 19,$349.00,3
+PRI-0047,Asahi Beverages - Schweppes Australia,0,Hydro Clean 2440 / 15L (HF195) - NB fr Ja,$58.80,3
+PRI-0048,Asahi Beverages - Schweppes Australia,0,Hydro Clean 2760 / 15L (HF860) - NB fr Ja,$44.40,3
+PRI-0049,Asahi Beverages - Schweppes Australia,0,Hydro Clean 2920 / 20L (HF730) - NB fr Ja,$63.00,3
+PRI-0050,Aussie Pride Produce,0,HF 1543 (L),$4.20,3
+PRI-0051,Aussie Pride Produce,0,HF 860 (L),$3.80,3
+PRI-0052,Australian Biotechnology Manufacturing,0,HF 740 10L,$61.40,3
+PRI-0053,Australian Biotechnology Manufacturing,0,HF 740 15L,$79.80,3
+PRI-0054,Australian Biotechnology Manufacturing,0,HF 860 10L,$54.20,3
+PRI-0055,Australian Lamb Colac (CRF Colac Otway PL),0,Softener Salt per bag,$11.70,4
+PRI-0056,Australian Lamb Colac (CRF Colac Otway PL),0,Water Meter 20mm,$350.00,4
+PRI-0057,Australian Lamb Colac (CRF Colac Otway PL),0,Water Meter 50mm,$480.00,4
+PRI-0058,Australian Lamb Colac (CRF Colac Otway PL),0,Water Softener,"$1,980.00",4
+PRI-0059,Australian Meat Group (AMG) - Cootamundra,0,HF 133 (15L),$119.10,4
+PRI-0060,Australian Meat Group (AMG) - Cootamundra,0,HF 143 (15L),$119.10,4
+PRI-0061,Australian Meat Group (AMG) - Cootamundra,0,HF 1537 (15KG),$163.20,4
+PRI-0062,Australian Meat Group (AMG) - Cootamundra,0,HF 1550 (15 kg),$141.75,4
+PRI-0063,Australian Meat Group (AMG) - Cootamundra,0,HF 1550 (25Kg),$236.25,4
+PRI-0064,Australian Meat Group (AMG) - Cootamundra,0,HF 191 (1000L),"$3,680.00",4
+PRI-0065,Australian Meat Group (AMG) - Cootamundra,0,HF 3092 (IBC),"$3,420.00",4
+PRI-0066,Australian Meat Group (AMG) - Cootamundra,0,HF 691 IBC (15%),"$6,840.00",4
+PRI-0067,Australian Meat Group (AMG) - Cootamundra,0,HF 724 (IBC),"$1,538.00",4
+PRI-0068,Australian Meat Group (AMG) - Cootamundra,0,HF 736 IBC,"$4,876.00",4
+PRI-0069,Australian Meat Group (AMG) - Cootamundra,0,HF 740 20L,$75.00,4
+PRI-0070,Australian Meat Group (AMG) - Cootamundra,0,HF 749 (1000L),"$1,340.00",4
+PRI-0071,Australian Meat Group (AMG) - Cootamundra,0,HF 805P (per pallet 60x20 kg),"$1,675.25",4
+PRI-0072,Australian Meat Group (AMG) - Cootamundra,0,HF 888 (20KG Bag),$31.00,4
+PRI-0073,Australian Meat Group (AMG) - Cootamundra,0,HF133 (20L) CT,$170.00,4
+PRI-0074,Australian Meat Group (AMG) - Cootamundra,0,HF191F (15L),$102.75,4
+PRI-0075,Australian Meat Group (AMG) - Cootamundra,0,HF195 (1000L),"$1,060.00",4
+PRI-0076,Australian Meat Group (AMG) - Cootamundra,0,HF198 (15L) CT,$119.25,4
+PRI-0077,Australian Meat Group (AMG) - Cootamundra,0,HF295 (15L) Boiler,$142.50,4
+PRI-0078,Australian Meat Group (AMG) - Cootamundra,0,HF307 (20L) CT,$136.00,4
+PRI-0079,Australian Meat Group (AMG) - Cootamundra,0,HF322 (L),$9.75,4
+PRI-0080,Australian Meat Group (AMG) - Cootamundra,0,HF410 (15L) Boiler,$131.55,4
+PRI-0081,Australian Meat Group (AMG) - Cootamundra,0,HF693 (20L),$198.00,4
+PRI-0082,Australian Meat Group (AMG) - Cootamundra,0,HF720 (IBC),"$1,410.00",4
+PRI-0083,Australian Meat Group (AMG) - Cootamundra,0,HF720 (L),$3.75,4
+PRI-0084,Australian Meat Group (AMG) - Cootamundra,0,HF736 (4x250KG),"$3,810.00",4
+PRI-0085,Australian Meat Group (AMG) - Cootamundra,0,HF828 (15L)Boiler,$181.20,4
+PRI-0086,Australian Meat Group (AMG) - Cootamundra,0,HF842 (15L),$291.75,4
+PRI-0087,Australian Meat Group (AMG) - Dandenong So,,HF 143 (15 L),$225.75,5
+PRI-0088,Australian Meat Group (AMG) - Dandenong So,,HF 143 (L),$7.94,5
+PRI-0089,Australian Meat Group (AMG) - Dandenong So,,HF 1537 15Kg (10.88 /Kg),$163.20,5
+PRI-0090,Australian Meat Group (AMG) - Dandenong So,,HF 1549 - IBC,"$6,250.00",5
+PRI-0091,Australian Meat Group (AMG) - Dandenong So,,HF 1549 - Polymer (1000L),"$6,250.00",5
+PRI-0092,Australian Meat Group (AMG) - Dandenong So,,HF 1550 15Kg (9.45Kg),$141.75,5
+PRI-0093,Australian Meat Group (AMG) - Dandenong So,,HF 165 (15 L),$157.05,5
+PRI-0094,Australian Meat Group (AMG) - Dandenong So,,HF 165 (L),$10.47,5
+PRI-0095,Australian Meat Group (AMG) - Dandenong So,,HF 191 IBC ($3.68 P/L),"$3,680.00",5
+PRI-0096,Australian Meat Group (AMG) - Dandenong So,,HF 195 IBC ($1.06),"$1,060.00",5
+PRI-0097,Australian Meat Group (AMG) - Dandenong So,,HF 197 (L),$1.66,5
+PRI-0098,Australian Meat Group (AMG) - Dandenong So,,HF 198 (15 L),$115.50,5
+PRI-0099,Australian Meat Group (AMG) - Dandenong So,,HF 198 (L),$7.70,5
+PRI-0100,Australian Meat Group (AMG) - Dandenong So,,HF 295 (15 L),$139.00,5
+PRI-0101,Australian Meat Group (AMG) - Dandenong So,,HF 295 (L) $142.50,$9.50,5
+PRI-0102,Australian Meat Group (AMG) - Dandenong So,,HF 3092 IBC - Coagulant (3.42 p/L),"$3,420.00",5
+PRI-0103,Australian Meat Group (AMG) - Dandenong So,,HF 3092 (IBC) - Fr Nov-23,"$3,420.00",5
+PRI-0104,Australian Meat Group (AMG) - Dandenong So,,HF 320 (15 L) - As per agreement,$137.55,5
+PRI-0105,Australian Meat Group (AMG) - Dandenong So,,HF 320 (L),$9.75,5
+PRI-0106,Australian Meat Group (AMG) - Dandenong So,,HF 322 15L,$146.25,5
+PRI-0107,Australian Meat Group (AMG) - Dandenong So,,HF 410 (15 L),$131.55,5
+PRI-0108,Australian Meat Group (AMG) - Dandenong So,,HF 410 (L),$8.77,5
+PRI-0109,Australian Meat Group (AMG) - Dandenong So,,HF 510 (15 L),$151.50,5
+PRI-0110,Australian Meat Group (AMG) - Dandenong So,,HF 510 (L),$10.10,5
+PRI-0111,Australian Meat Group (AMG) - Dandenong So,,HF 693 (20L) (13.20 /L),$198.00,5
+PRI-0112,Australian Meat Group (AMG) - Dandenong So,,HF 720 IBC ($1.41/L),"$1,410.00",5
+PRI-0113,Australian Meat Group (AMG) - Dandenong So,,HF 724 IBC (2.083 /L),"$2,083.00",5
+PRI-0114,Australian Meat Group (AMG) - Dandenong So,,HF 736 (L) (4 *250Kg = $3810.00),$3.81,5
+PRI-0115,Australian Meat Group (AMG) - Dandenong So,,HF 736 (per 200L/250KG),$952.50,5
+PRI-0116,Australian Meat Group (AMG) - Dandenong So,,HF 740 (15 L),$39.00,5
+PRI-0117,Australian Meat Group (AMG) - Dandenong So,,HF 740 (20L),$75.00,5
+PRI-0118,Australian Meat Group (AMG) - Dandenong So,,HF 749 IBC ($1.34 p/l),"$1,340.00",5
+PRI-0119,Australian Meat Group (AMG) - Dandenong So,,"HF 805P (Per pallet, 60x20kg)","$1,675.25",5
+PRI-0120,Australian Meat Group (AMG) - Dandenong So,,HF 828 (15L),$181.20,5
+PRI-0121,Australian Meat Group (AMG) - Dandenong So,,HF 840 (5L),$158.40,5
+PRI-0122,Australian Meat Group (AMG) - Dandenong So,,HF 842 (L) (15L = $291.75),$19.45,5
+PRI-0123,Australian Pioneer Pistachio Company (APPC),0,HF 195 (15L),$21.90,6
+PRI-0124,Australian Pioneer Pistachio Company (APPC),0,HF730 (20L),$46.00,6
+PRI-0125,Australian Premium Dried Fruits,0,HF 720 IBC,"$1,440.00",6
+PRI-0126,Australian Premium Dried Fruits,0,HF 730 (15L),$46.00,6
+PRI-0127,Australian Premium Dried Fruits,0,HF 860 IBC,"$1,850.00",6
+PRI-0128,Australian Steel and Wire Pty Ltd,0,HF530 (20L),$182.00,6
+PRI-0129,B&E Foods Pty Ltd,0,720 (200L),$322.00,6
+PRI-0130,B&E Foods Pty Ltd,0,860 (200L),$324.00,6
+PRI-0131,B&E Foods Pty Ltd,0,HF 2842 (15L),$177.00,6
+PRI-0132,B&E Foods Pty Ltd,0,HF 3038 (200L),$524.00,6
+PRI-0133,B&E Foods Pty Ltd,0,HF 3901 (PKT),$32.00,6
+PRI-0134,B&E Foods Pty Ltd,0,HF3902,"$2,100.00",6
+PRI-0135,B&E Foods Pty Ltd - 8 Bess,0,HF 3038 (200L),$524.00,6
+PRI-0136,B&E Foods Pty Ltd - 8 Bess,0,HF 860 (200L),$324.00,6
+PRI-0137,B&E Foods Pty Ltd - 8 Bess,0,HF720 (200L),$332.00,6
+PRI-0138,Baiada Poultry Pty Ltd - Osborne Park,,HF 1550E,"$1,616.00",6
+PRI-0139,Baiada Poultry Pty Ltd - Osborne Park,,HF1537 (40% Citric Acid) (IBC) / HF 731 (I,$910.00,6
+PRI-0140,Baiada Poultry Pty Ltd - Osborne Park,475831,HF 245 (L),$10.29,6
+PRI-0141,Barristers Chambers Limited - 200 Queen Street,0,HF 510 15L,$320.00,7
+PRI-0142,BASF Australia Ltd - Cheltenham,,HF 410 (15L),$142.50,7
+PRI-0143,BASF Australia Ltd - Cheltenham,0,HF 133 (15L),$138.75,7
+PRI-0144,BASF Australia Ltd - Cheltenham,0,HF 133 (L),$9.10,7
+PRI-0145,BASF Australia Ltd - Cheltenham,0,HF 198 (15L),$113.00,7
+PRI-0146,BASF Australia Ltd - Cheltenham,0,HF 198 (L),$7.33,7
+PRI-0147,BASF Australia Ltd - Cheltenham,0,HF 307 (15L),$132.75,7
+PRI-0148,BASF Australia Ltd - Cheltenham,0,HF 307 (L),$8.70,7
+PRI-0149,BASF Australia Ltd - Cheltenham,0,HF 410 (20L),$190.00,7
+PRI-0150,BASF Australia Ltd - Cheltenham,0,HF 510 15L,$360.00,7
+PRI-0151,BASF Australia Ltd - Cheltenham,0,HF 530 (20L),$175.00,7
+PRI-0152,BASF Australia Ltd - Cheltenham,0,HF 828 (20L) - Not present in new contract,$192.00,7
+PRI-0153,BASF Australia Ltd - Cheltenham,0,HF 845 (15L),$129.75,7
+PRI-0154,Batlow Fruit Co-op,0,HF 133 (L),$9.20,7
+PRI-0155,Batlow Fruit Co-op,1,HF APPLE WASH POWDER 25KG,$162.00,7
+PRI-0156,Batlow Fruit Co-op,1,HF143 (15L),$147.00,7
+PRI-0157,Batlow Fruit Co-op,1,HF322 (15L),$96.75,7
+PRI-0158,Batlow Fruit Co-op,2,HF198 (15L),$103.20,7
+PRI-0159,Batlow Fruit Co-op,3,HF320S (15L),$96.75,7
+PRI-0160,Bells Pure Ice - Dandenong,0,Filter Bags,$45.00,7
+PRI-0161,Bensonlily Melbourne T/S Park Hyatt Melbourn,,HF 510 (15L),$228.00,8
+PRI-0162,Bensonlily Melbourne T/S Park Hyatt Melbourn,,HF 532 (20L),$198.00,8
+PRI-0163,Bensonlily Melbourne T/S Park Hyatt Melbourn,,HF 536 (20L),$198.00,8
+PRI-0164,Bensonlily Melbourne T/S Park Hyatt Melbourn,,HF 560 (20L),$112.00,8
+PRI-0165,Bensonlily Melbourne T/S Park Hyatt Melbourn,,HF 740 (20L),$112.00,8
+PRI-0166,Bensonlily Melbourne T/S Park Hyatt Melbourn,,HF 840 (20L),$142.00,8
+PRI-0167,BGIS - Latrobe Regional Hospital - Brookfield,0,HF 510 (15L),$245.00,8
+PRI-0168,BGIS - Latrobe Regional Hospital - Brookfield,0,HF 558 (15L),$480.00,8
+PRI-0169,BGIS - Latrobe Regional Hospital - Brookfield,0,HF195 (L),$5.00,8
+PRI-0170,BGIS - Latrobe Regional Hospital - Brookfield,0,pH probe,$487.00,8
+PRI-0171,BGIS - Latrobe Regional Hospital - Brookfield,0,Softener Salt (48 bags per pallet) per pallet,$729.00,8
+PRI-0172,BGIS - Latrobe Regional Hospital - Brookfield,0,Softener Salt per bag,$15.20,8
+PRI-0173,BioBlue - SA,0,75kg MB400,$15.80,8
+PRI-0174,Blue Star Web (Webstar Print),0,Filter Bag,$38.00,8
+PRI-0175,Blue Star Web (Webstar Print),0,HF 115 (20L),$298.00,8
+PRI-0176,Blue Star Web (Webstar Print),0,HF 133 (20L),$280.00,8
+PRI-0177,Blue Star Web (Webstar Print),0,HF 139 (L),$23.50,8
+PRI-0178,Blue Star Web (Webstar Print),0,HF 530 (20L),$262.00,8
+PRI-0179,Blue Star Web (Webstar Print),0,HF 532 (20L),$188.00,8
+PRI-0180,Blue Star Web (Webstar Print),0,HF 538 (20L),$192.00,8
+PRI-0181,Blue Star Web (Webstar Print),0,HF 558 (20L),$364.00,8
+PRI-0182,Blue Star Web (Webstar Print),0,HF 559 (20L),$375.00,8
+PRI-0183,Blue Star Web (Webstar Print),0,HF 559 (5L),$124.00,8
+PRI-0184,Blue Star Web (Webstar Print),0,HF510 (15L),$194.00,8
+PRI-0185,BlueScope Sheet Metal Supplies (Onesteel Georg,0,HF 133 (20L),$182.00,8
+PRI-0186,Boeing Aerostructures,,Turbidex (25 kg),$80.00,9
+PRI-0187,Boortmalt Masters of Malt,,HF195 (15L),$16.50,9
+PRI-0188,Boortmalt Masters of Malt,,HF413 (IBC),"$1,690.00",9
+PRI-0189,Boortmalt Masters of Malt,,HF414 (IBC),"$2,150.00",9
+PRI-0190,Boortmalt Masters of Malt,,HF780P (15L),$205.00,9
+PRI-0191,Boortmalt Masters of Malt,,HF865 (IBC),"$1,650.00",9
+PRI-0192,Boortmalt Masters of Malt,,HF 860 (IBC),"$1,600.00",9
+PRI-0193,Boortmalt Masters of Malt,0,Derma 925N Foamer,"$2,690.00",9
+PRI-0194,Boortmalt Masters of Malt,0,Profoam - 25L,$129.59,9
+PRI-0195,Boortmalt Masters of Malt,0,Trimove 25L,$293.25,9
+PRI-0196,Boortmalt Masters of Malt,4507177012,HC2448 (15L),$59.25,9
+PRI-0197,Borgcraft Pty Ltd,0,HF 165 (1L),$8.40,9
+PRI-0198,Borgcraft Pty Ltd,0,HF 165 (20L),$168.00,9
+PRI-0199,Borgcraft Pty Ltd,0,HF 198 (15L),$118.00,9
+PRI-0200,Borgcraft Pty Ltd,0,HF 305 (20L),$122.00,9
+PRI-0201,Borgcraft Pty Ltd,0,HF 307 (20L),$116.00,9
+PRI-0202,Borgcraft Pty Ltd,0,HF 322 (15L),$165.00,9
+PRI-0203,Bullock Victoria Pty Ltd,0,"1/2"" solenoid valve",$250.00,9
+PRI-0204,Bullock Victoria Pty Ltd,0,HF307 (20L),$90.00,9
+PRI-0205,Campbell's Soup Australia,0,HF 1570 Polymer (IBC),"$9,300.00",9
+PRI-0206,Campbell's Soup Australia,4505221176,Softener Salt 15KG Bags (80 bags= 1 Palle,$976.00,9
+PRI-0207,Cann Group Limited,,HF 559 (IBC),"$17,114.00",10
+PRI-0208,Cann Group Limited,,HF 730 (L),$3.81,10
+PRI-0209,Cann Group Limited,,HF 860 (15L) $3.47/L,$52.05,10
+PRI-0210,Casalare Pty Ltd,0,HF 558 (20L),$446.00,10
+PRI-0211,Casalare Pty Ltd,0,HF559 (15L) (HF 860 15L = $75.00),$334.50,10
+PRI-0212,CBC - 383 George Street,0,HF 133 15L,$136.50,10
+PRI-0213,CBC - 383 George Street,0,HF 510 15L,$123.00,10
+PRI-0214,CBC Group - 120 Spencer Street,,HF 510 15L,$320.00,10
+PRI-0215,CBRE - 124 Walker Street (Ho-Group Australia,0,HF 133 15L,$136.50,10
+PRI-0216,CBRE - 124 Walker Street (Ho-Group Australia,0,HF 510 15L,$123.00,10
+PRI-0217,CBRE (GCS) Pty Ltd - Robert Bosch,,Amberjet UP6150(50L)(15/7/19:Replaced b,$662.00,10
+PRI-0218,CBRE (GCS) Pty Ltd - Robert Bosch,,HF 860 (15L) - Fr Sep-20 for TW only,$134.66,10
+PRI-0219,CBRE (GCS) Pty Ltd - Robert Bosch,,HF 1533 (per kg) - Fr Jul-21,$15.00,10
+PRI-0220,CBRE (GCS) Pty Ltd - Robert Bosch,,HF 730 (20L) - NA fr Sep-20,$62.00,10
+PRI-0221,CBRE (GCS) Pty Ltd - Robert Bosch,,Purolite UCW 3240 (per drum of 50L) - Fr S,$670.68,10
+PRI-0222,CBRE (GCS) Pty Ltd - Robert Bosch,0,Amberlite IRN150 (50L) (Replaced by Purol,$560.00,10
+PRI-0223,CBRE (GCS) Pty Ltd - Robert Bosch,0,Aquada Maxima 10 lamp (each) - NA,$249.00,10
+PRI-0224,CBRE (GCS) Pty Ltd - Robert Bosch,0,"Carbon Filters Block 20"" (piece) - Fr Sep-20",$50.00,10
+PRI-0225,CBRE (GCS) Pty Ltd - Robert Bosch,0,Chemicals for reject water tanks (L) - Fr Se,$0.00,10
+PRI-0226,CBRE (GCS) Pty Ltd - Robert Bosch,0,Chemicals for RO clean (Acidic) per L - Fr,$0.00,10
+PRI-0227,CBRE (GCS) Pty Ltd - Robert Bosch,,UV lamp - Uviflow 10.000 lamp (piece) - Fr,$135.00,11
+PRI-0228,CBRE (GCS) Pty Ltd - Robert Bosch,,UV lamp - Uviflow 20.000 lamp (piece) - Fr,$135.00,11
+PRI-0229,CBRE (GCS) Pty Ltd - Robert Bosch,,UV lamp - Uvitank 40 LAMP (piece) - Fr Se,$130.00,11
+PRI-0230,CBRE (GCS) Pty Ltd - Robert Bosch,,UV lamp - Uvitank 80 lamp (piece) - Fr Sep,$207.00,11
+PRI-0231,CBRE (GCS) Pty Ltd - Robert Bosch,,UV lamp - Wedeco LCS17 lamp (piece) - Fr,$464.00,11
+PRI-0232,CBRE (GCS) Pty Ltd - Robert Bosch,Chem. Clean,CMF- Microfiltration plant (piece) - Fr Sep-,$400.00,11
+PRI-0233,CBRE (GCS) Pty Ltd - Robert Bosch,Fr Sep-20,"Cartdrige Filters 0.2 micron 10"" Pall (piece)",$128.00,11
+PRI-0234,CBRE (GCS) Pty Ltd - Robert Bosch,Fr Sep-20,Cartdrige Filters 0.2 micron 20 Pall (piece),$330.00,11
+PRI-0235,CBRE (GCS) Pty Ltd - Robert Bosch,Fr Sep-20,"Cartdrige Filters 0.2 micron 30"" Pall (piece)",$405.00,11
+PRI-0236,CBRE (GCS) Pty Ltd - Robert Bosch,Fr Sep-20,"Cartdrige Filters 0.2 micron 40"" Pall (piece)",$385.00,11
+PRI-0237,CBRE (GCS) Pty Ltd - Robert Bosch,Fr Sep-20,"Cartdrige Filters 1 micron 30"" Pall (peice)",$43.00,11
+PRI-0238,CBRE (GCS) Pty Ltd - Robert Bosch,Fr Sep-20,"Cartdrige Filters 5 micron 30"" Pall (piece)",$45.00,11
+PRI-0239,CBRE (GCS) Pty Ltd - Robert Bosch,Fr Sep-20,Labour / hr - DI Resin Bed Recharge (piece,$148.00,11
+PRI-0240,CBRE (GCS) Pty Ltd - Robert Bosch,Fr Sep-20,Purolite UCW 3700 (1 Pallet - 9 drums of 5,"$7,470.00",11
+PRI-0241,CBRE (GCS) Pty Ltd - Robert Bosch,Fr Sep-20,Purolite UCW 3700 (50L),$968.11,11
+PRI-0242,CBRE (GCS) Pty Ltd - Robert Bosch,Lime slurry waste,Flocculant - Magnafloc 919 (kg) - Fr Sep-20,$15.00,11
+PRI-0243,CCL Secure Pty Ltd (ex-Innovia Security - Secu,,HF 245 (15L),$165.00,11
+PRI-0244,CCL Secure Pty Ltd (ex-Innovia Security - Secu,,HF 845 (20L),$170.00,11
+PRI-0245,CCL Secure Pty Ltd (ex-Innovia Security - Secu,,HF 860 (15L),$60.00,11
+PRI-0246,CCL Secure Pty Ltd (ex-Innovia Security - Secu,0,HF 115 (15L),$147.00,11
+PRI-0247,CCL Secure Pty Ltd (ex-Innovia Security - Secu,0,HF 133 (15L),$130.50,11
+PRI-0248,CCL Secure Pty Ltd (ex-Innovia Security - Secu,0,HF 245 (L),$11.00,11
+PRI-0249,CCL Secure Pty Ltd (ex-Innovia Security - Secu,0,HF 246 (L),$13.20,11
+PRI-0250,CCL Secure Pty Ltd (ex-Innovia Security - Secu,0,HF 530 (15L),$88.50,11
+PRI-0251,CCL Secure Pty Ltd (ex-Innovia Security - Secu,0,HF 530 (20L),$118.00,11
+PRI-0252,CCL Secure Pty Ltd (ex-Innovia Security - Secu,0,HF 558 (15L),$283.50,11
+PRI-0253,CCL Secure Pty Ltd (ex-Innovia Security - Secu,0,HF 628 (20L),$120.00,11
+PRI-0254,CCL Secure Pty Ltd (ex-Innovia Security - Secu,0,HF 840 (20L),$124.00,11
+PRI-0255,Chien Wah Trading Co. Pty Ltd,,Trade waste sampling,"$2,006.00",12
+PRI-0256,Chien Wah Trading Co. Pty Ltd,0,HF 133 (20L),$198.00,12
+PRI-0257,Chien Wah Trading Co. Pty Ltd,0,HF 198 (15L),$78.00,12
+PRI-0258,Chien Wah Trading Co. Pty Ltd,0,HF 295 (20L),$104.00,12
+PRI-0259,Chien Wah Trading Co. Pty Ltd,0,HF 307 (20L),$152.00,12
+PRI-0260,Chien Wah Trading Co. Pty Ltd,0,HF 410 (15L),$117.00,12
+PRI-0261,Chien Wah Trading Co. Pty Ltd,0,HF 828 (15L),$133.50,12
+PRI-0262,Chien Wah Trading Co. Pty Ltd,0,HF 828 (L),$8.90,12
+PRI-0263,Chien Wah Trading Co. Pty Ltd,0,HF125 (25KG),$440.00,12
+PRI-0264,Chien Wah Trading Co. Pty Ltd,a,Biocide Canisters (Ea),$15.00,12
+PRI-0265,Clariant (Australia) Pty Ltd,,HF 133 (20L) - for CTS only,$256.00,12
+PRI-0266,Clariant (Australia) Pty Ltd,,HF 1543 (15L) - Fr Mar-20,$60.00,12
+PRI-0267,Clariant (Australia) Pty Ltd,,HF 230 (20L),$228.00,12
+PRI-0268,Clariant (Australia) Pty Ltd,,HF 248 (20L) - as per ML 13/2/19,$194.00,12
+PRI-0269,Clariant (Australia) Pty Ltd,,HF 295 (15L),$118.18,12
+PRI-0270,Clariant (Australia) Pty Ltd,,HF 295 (20L) - Fr Apr-21,$130.00,12
+PRI-0271,Clariant (Australia) Pty Ltd,,HF 828 (15L) AS PER MIKE,$214.05,12
+PRI-0272,Clariant (Australia) Pty Ltd,,HF 828 (L),$14.27,12
+PRI-0273,Clariant (Australia) Pty Ltd,,HF 830 (15L) - Fr Apr-21,$153.00,12
+PRI-0274,Clariant (Australia) Pty Ltd,,Softener Salt - 1 pallet of 48 bags,$720.00,12
+PRI-0275,Clariant (Australia) Pty Ltd,,Softener Salt - 25 kgs bag,$15.00,12
+PRI-0276,Coca Cola Amatil - King Lake,0,Softener Salt 1200Kg pallet of 15Kg bags,$804.00,12
+PRI-0277,Coca Cola Amatil - King Lake,0,Softener Salt 15Kg bag,$10.32,12
+PRI-0278,Coca Cola Amatil (Aust) Pty Ltd - Moorabbin Si,,Absorbent Pad (Oil - white hydrocarbon),$3.20,12
+PRI-0279,Coca Cola Amatil (Aust) Pty Ltd - Moorabbin Si,,HF 139 (L),$21.30,13
+PRI-0280,Coca Cola Amatil (Aust) Pty Ltd - Moorabbin Si,,HF 165 (L),$12.00,13
+PRI-0281,Coca Cola Amatil (Aust) Pty Ltd - Moorabbin Si,,HF 192 (1Kg),$8.05,13
+PRI-0282,Coca Cola Amatil (Aust) Pty Ltd - Moorabbin Si,,HF 195 (L),$4.33,13
+PRI-0283,Coca Cola Amatil (Aust) Pty Ltd - Moorabbin Si,,HF 198 (L),$8.13,13
+PRI-0284,Coca Cola Amatil (Aust) Pty Ltd - Moorabbin Si,,HF 230 (L),$9.70,13
+PRI-0285,Coca Cola Amatil (Aust) Pty Ltd - Moorabbin Si,,HF 295 (L),$9.10,13
+PRI-0286,Coca Cola Amatil (Aust) Pty Ltd - Moorabbin Si,,HF 307 (L),$7.20,13
+PRI-0287,Coca Cola Amatil (Aust) Pty Ltd - Moorabbin Si,,HF 355 (L),$7.20,13
+PRI-0288,Coca Cola Amatil (Aust) Pty Ltd - Moorabbin Si,,HF 382 (L),$5.60,13
+PRI-0289,Coca Cola Amatil (Aust) Pty Ltd - Moorabbin Si,,HF 410 (L),$8.20,13
+PRI-0290,Coca Cola Amatil (Aust) Pty Ltd - Moorabbin Si,,HF 532 (L),$9.70,13
+PRI-0291,Coca Cola Amatil (Aust) Pty Ltd - Moorabbin Si,,HF 559 (L),$24.90,13
+PRI-0292,Coca Cola Amatil (Aust) Pty Ltd - Moorabbin Si,,HF 630 (L),$11.15,13
+PRI-0293,Coca Cola Amatil (Aust) Pty Ltd - Moorabbin Si,,HF 720 (L),$3.48,13
+PRI-0294,Coca Cola Amatil (Aust) Pty Ltd - Moorabbin Si,,HF 730 (L),$3.10,13
+PRI-0295,Coca Cola Amatil (Aust) Pty Ltd - Moorabbin Si,,HF 740 (L),$2.60,13
+PRI-0296,Coca Cola Amatil (Aust) Pty Ltd - Moorabbin Si,,HF 840 (L),$6.10,13
+PRI-0297,Coca Cola Amatil (Aust) Pty Ltd - Moorabbin Si,,HF 842 (L),$8.90,13
+PRI-0298,Coca Cola Amatil (Aust) Pty Ltd - Moorabbin Si,,HF 845 (L),$8.90,13
+PRI-0299,Coca Cola Amatil (Aust) Pty Ltd - Moorabbin Si,,HF 860 (L),$1.48,13
+PRI-0300,Coca Cola Amatil (Aust) Pty Ltd - Moorabbin Si,,HF 860(L) (IN IBC) ($0.97) and Bulk (1.128,$0.97,13
+PRI-0301,Coca Cola Amatil (Aust) Pty Ltd - Moorabbin Si,,HF 950 (L),$19.70,13
+PRI-0302,Coca Cola Amatil (Aust) Pty Ltd - Moorabbin Si,,HF192 (40KG),$322.00,13
+PRI-0303,Coca Cola Amatil (Aust) Pty Ltd - Moorabbin Si,,James Broadley probe SP200,$517.00,13
+PRI-0304,Coca Cola Amatil (Aust) Pty Ltd - Moorabbin Si,,James Broadley Probe ST851,"$1,023.00",13
+PRI-0305,Coca Cola Amatil (Aust) Pty Ltd - Moorabbin Si,,Passivation Service,$780.00,13
+PRI-0306,Coca Cola Amatil (Aust) Pty Ltd - Moorabbin Si,,ProMinent free chlorine probe,"$2,775.00",13
+PRI-0307,Coca Cola Amatil (Aust) Pty Ltd - Moorabbin Si,,Sitest pH probe,$407.00,13
+PRI-0308,Coca Cola Amatil (Aust) Pty Ltd - Moorabbin Si,,Softener salt per 15KG bag,$10.32,13
+PRI-0309,Coca Cola Amatil (Aust) Pty Ltd - Moorabbin Si,,Softener Salt per 25kg bag,$15.50,13
+PRI-0310,Coca Cola Amatil (Aust) Pty Ltd - Moorabbin Si,,Softener Salt per pallet (15Kg bags),$804.00,13
+PRI-0311,Comgroup Supplies Pty Ltd - Carole Park,,HC 2410 (15L) - Fr May-20,$37.80,13
+PRI-0312,Comgroup Supplies Pty Ltd - Carole Park,,HF 860 (kg) - Caustic,$2.16,14
+PRI-0313,Conroy's Smallgoods - Royal Park,0,HF198 (15L),$0.00,14
+PRI-0314,Corrective Services NSW - Junee Correctional C,0,HF 730 (15L),$76.00,14
+PRI-0315,Corrective Services NSW - Junee Correctional C,0,HF195 15L,$74.00,14
+PRI-0316,Corrective Services NSW - Junee Correctional C,0,HF740 20L (this chem price not in new SA),$92.00,14
+PRI-0317,Corrective Services NSW - Junee Correctional C,0,Softener Salt 15KG,$19.00,14
+PRI-0318,Cosmax NBT,0,HF 740 (20Lt),$75.29,14
+PRI-0319,Cosmax NBT,0,HF 740 (Bulk),$1.32,14
+PRI-0320,Cosmax NBT,0,HF 860 (15lt),$28.29,14
+PRI-0321,Cosmax NBT,0,HF 860 (Bulk),$1.89,14
+PRI-0322,Couper Air Pty Ltd (David Couper & Associates,0,HF 133D (20L),$120.00,14
+PRI-0323,Couper Air Pty Ltd (David Couper & Associates,0,HF 137 (25KG),$258.00,14
+PRI-0324,Couper Air Pty Ltd (David Couper & Associates,0,HF 138 (20L),$210.00,14
+PRI-0325,Couper Air Pty Ltd (David Couper & Associates,0,HF 165 (20L),$80.00,14
+PRI-0326,Couper Air Pty Ltd (David Couper & Associates,0,HF 195 (15L),$30.00,14
+PRI-0327,Couper Air Pty Ltd (David Couper & Associates,0,HF 305 (20L),$80.00,14
+PRI-0328,Couper Air Pty Ltd (David Couper & Associates,0,HF 740 (20L),$60.00,14
+PRI-0329,Couper Air Pty Ltd (David Couper & Associates,0,NaOCI (15L),$30.00,14
+PRI-0330,Couper Air Pty Ltd (David Couper & Associates,0,Total Chlorine Satchels (Box of 100),$58.00,14
+PRI-0331,Darrell Lea Confectionery (ex-Heritage Fine Ch,,HF 133 (20L) - NA,$256.00,15
+PRI-0332,Darrell Lea Confectionery (ex-Heritage Fine Ch,,HF 139 (20L) - NA,$256.00,15
+PRI-0333,Darrell Lea Confectionery (ex-Heritage Fine Ch,,HF 558 (20L) - NA,$396.00,15
+PRI-0334,Darrell Lea Confectionery (ex-Heritage Fine Ch,,HF 628 (20L) - NA,$132.00,15
+PRI-0335,Darrell Lea Confectionery (ex-Heritage Fine Ch,,HF 840 (20L) - NA,$164.00,15
+PRI-0336,Deep South Brewing Company,0,HF 532 (20L),$138.00,15
+PRI-0337,Deep South Brewing Company,0,HF 845C (15L),$183.00,15
+PRI-0338,Delta FM - Queensland Children's Hospital (ex-,0,Durapore 0.2M cartridge filter (each),$948.00,15
+PRI-0339,Delta FM - Queensland Children's Hospital (ex-,0,Prepak L1 (each),$660.00,15
+PRI-0340,Delta FM - Queensland Children's Hospital (ex-,0,Progard TL1 (each),$759.60,15
+PRI-0341,Delta FM - Queensland Children's Hospital (ex-,0,RO Membrane for Elix 70 (each),"$1,615.00",15
+PRI-0342,Delta FM - Queensland Children's Hospital (ex-,0,RO storage tank vent filter (each),$388.90,15
+PRI-0343,Delta FM - Queensland Children's Hospital (ex-,0,UV lamp for Elix 70 (each),$412.80,15
+PRI-0344,Delta FM - Queensland Children's Hospital (ex-,0,UV Lamp for Wedeco UV system (each),$188.90,15
+PRI-0345,Dexus - Connect Corporate Centre Mascot,0,HF 133 15L,$136.50,15
+PRI-0346,Dexus - Connect Corporate Centre Mascot,0,HF 510 15L,$123.00,15
+PRI-0347,DNC Contracting Pty Ltd - Cobram,0,HC 2831 (IBC),"$1,800.00",15
+PRI-0348,DNC Contracting Pty Ltd - Cobram,0,HF730 (L) Citric Acid,$4.30,15
+PRI-0349,DNC Contracting Pty Ltd - Cobram,0,HF860 (1000L) - cleveland Glosswash,"$2,135.00",15
+PRI-0350,Dominal Pty Ltd (Murray Valley Meat Co. Pty,,HF 115 (15L),$142.00,15
+PRI-0351,Dominal Pty Ltd (Murray Valley Meat Co. Pty,,HF 133 (15L),$153.00,15
+PRI-0352,Drop n Go Drycleaning Laundry Services,0,Freight,$30.00,16
+PRI-0353,Drop n Go Drycleaning Laundry Services,0,HF 830 15L,$105.00,16
+PRI-0354,Drop n Go Drycleaning Laundry Services,0,HF 842 15L,$240.00,16
+PRI-0355,Du Cane Brewing Co.,0,Carbon Filters x 19 each,$86.00,16
+PRI-0356,Du Cane Brewing Co.,0,HF860 (15L),$33.00,16
+PRI-0357,Dulux Group Australia - Pental Limited,,HF 755 (15L),$27.30,16
+PRI-0358,Dulux Group Australia - Pental Limited,,HF 830 (15L),$84.00,16
+PRI-0359,Dulux Group Australia - Pental Limited,,HF 845 (1L),$7.80,16
+PRI-0360,Dulux Group Australia - Pental Limited,,HF 845 (20L),$156.00,16
+PRI-0361,Dulux Group Australia - Pental Limited,,HF1242 (L),$11.75,16
+PRI-0362,Dulux Group Australia - Pental Limited,,HF1544 (15L),$44.40,16
+PRI-0363,Dulux Group Australia - Pental Limited,,HF 246 (1Lt),$9.80,16
+PRI-0364,Dulux Group Australia - Pental Limited,,HF 730 (L),$4.65,16
+PRI-0365,Dulux Group Australia - Pental Limited,,HF 842 (15L),$117.00,16
+PRI-0366,Dulux Group Australia - Pental Limited,,HF1544 (1 IBC),"$2,388.00",16
+PRI-0367,Dulux Group Australia - Pental Limited,0,HF 1242 (IBC),"$1,185.00",16
+PRI-0368,Dulux Group Australia - Pental Limited,0,HF 1544 (15L),$44.40,16
+PRI-0369,Dulux Group Australia - Pental Limited,0,HF 295 (L),$2.95,16
+PRI-0370,Dulux Group Australia - Pental Limited,0,HF 296 (IBC),"$1,885.00",16
+PRI-0371,Dulux Group Australia - Pental Limited,0,HF 296 (L),$1.88,16
+PRI-0372,Dulux Group Australia - Pental Limited,0,HF 410 (15L),$84.00,16
+PRI-0373,Dulux Group Australia - Pental Limited,0,HF 535 (1L),$9.28,16
+PRI-0374,Dulux Group Australia - Pental Limited,0,HF 535 (20L),$185.00,16
+PRI-0375,Dulux Group Australia - Pental Limited,0,HF 720 (15L),$27.30,16
+PRI-0376,Dulux Group Australia - Pental Limited,0,HF 720 (per L),$1.82,16
+PRI-0377,Dulux Group Australia - Pental Limited,0,HF 730 (IBC),"$1,860.00",16
+PRI-0378,Dulux Group Australia - Pental Limited,0,HF 740 (1L),$4.10,16
+PRI-0379,DuroColour Australia - Thomastown (ex-Asian,Trade Waste,HF 1541L (15L),$93.00,17
+PRI-0380,DuroColour Australia - Thomastown (ex-Asian,Trade Waste,HF 1541L (20 L),$124.00,17
+PRI-0381,DuroColour Australia - Thomastown (ex-Asian,Trade Waste,HF 1541L (L),$6.20,17
+PRI-0382,DuroColour Australia - Thomastown (ex-Asian,Trade Waste,HF 1544 (20 L),$254.00,17
+PRI-0383,DuroColour Australia - Thomastown (ex-Asian,Trade Waste,HF 1544 (L),$12.70,17
+PRI-0384,E13 Finishing P/L - T/A AAA Coating - Australi,0,HF 558 (20L),$364.00,17
+PRI-0385,E13 Finishing P/L - T/A AAA Coating - Australi,0,HF 830 (15L),$141.75,17
+PRI-0386,E13 Finishing P/L - T/A AAA Coating - Australi,0,HF 830 (20L),$189.00,17
+PRI-0387,E13 Finishing P/L - T/A AAA Coating - Australi,0,HF 845C (15L),$180.00,17
+PRI-0388,E13 Finishing P/L - T/A AAA Coating - Australi,0,HF 845C (20L),$210.00,17
+PRI-0389,Emperor Stone & Marble Pty Ltd,0,HF1537 (L),$0.98,17
+PRI-0390,Enirgi Power Storage Recycling,0,HF 1544 15L,$165.90,17
+PRI-0391,Enirgi Power Storage Recycling,0,HF 195 15L,$52.50,17
+PRI-0392,Enirgi Power Storage Recycling,0,Hf 260 15L,$198.00,17
+PRI-0393,Enirgi Power Storage Recycling,0,HF 295 15L,$89.25,17
+PRI-0394,Enirgi Power Storage Recycling,0,HF 728 15L,$56.25,17
+PRI-0395,Enirgi Power Storage Recycling,0,HF 860 15L,$69.90,17
+PRI-0396,Enviroganic,0,HF 845C 20L,$198.00,17
+PRI-0397,Extrusions Australia,0,CT warning sign 450 x 200mm (ea),$60.00,17
+PRI-0398,Extrusions Australia,pa,Cooling tower warning sign 450X330MM,$70.00,17
+PRI-0399,Forme Technologies,Closed Loop,HF 133 (20 L),$190.00,18
+PRI-0400,Forme Technologies,Closed Loop,HF 558 (20 L),$384.00,18
+PRI-0401,Fortescue Metals Group - Solomon Power Statio,,HF320S (1000L),"$8,012.00",18
+PRI-0402,FPC Food Plastics Pty Ltd,0,HF 133 (20L),$285.00,18
+PRI-0403,FPC Food Plastics Pty Ltd,0,HF 588 (20L),$415.00,18
+PRI-0404,FPC Food Plastics Pty Ltd,0,HF 628 (20L),$135.00,18
+PRI-0405,G.James Glass - Campbellfield,0,HF 139 (L),$6.65,18
+PRI-0406,G.James Glass - Campbellfield,0,HF 558 (20L),$428.00,18
+PRI-0407,G.James Glass - Campbellfield,0,HF 628 (20L),$223.00,18
+PRI-0408,G.James Glass & Aluminium - Smithfield,0,HF 140 (L),$16.80,18
+PRI-0409,G.James Glass & Aluminium - Smithfield,0,HF 558 (L),$21.40,18
+PRI-0410,Gamsee Industries,,HF 133 (20L) - Fr Apr-21,$384.00,18
+PRI-0411,Gamsee Industries,,HF 558 (20L) - Fr Apr-21,$662.66,18
+PRI-0412,Gamsee Industries,,HF 628 (20L) - Fr Apr-21,$378.66,18
+PRI-0413,Gamsee Industries,0,HF 133 (15L) - CLS - N/A,$288.00,18
+PRI-0414,Gamsee Industries,0,HF 510 (15L),$315.00,18
+PRI-0415,Gamsee Industries,0,HF 558 15L) - CLS - N/A,$497.00,18
+PRI-0416,Gamsee Industries,0,HF 628 (15L) - CLS - N/A,$284.00,18
+PRI-0417,Gawler River Brewing Pty Ltd,,HF 845 15L,$109.50,19
+PRI-0418,Gawler River Brewing Pty Ltd,,Softener Salt perK bag (price including deliv,$0.78,19
+PRI-0419,Geelong Grammar School - Timbertop,0,HF 1544 IBC,"$4,569.60",19
+PRI-0420,Gill Estate,0,HF 133 15L,$153.00,19
+PRI-0421,Gill Estate,0,HF 198 15L,$108.00,19
+PRI-0422,Gill Estate,0,HF 312 15L,$109.50,19
+PRI-0423,Global Meats (Australia) Pty Ltd (ex-Clover Val,,HF 410 (15L),$117.00,19
+PRI-0424,Global Meats (Australia) Pty Ltd (ex-Clover Val,,HF 845 (20L),$139.00,19
+PRI-0425,Global Meats (Australia) Pty Ltd (ex-Clover Val,0,HF 410 (L),$7.80,19
+PRI-0426,Global Meats (Australia) Pty Ltd (ex-Clover Val,0,HF 845 (L),$6.95,19
+PRI-0427,Global Meats (Australia) Pty Ltd (ex-Clover Val,0,Softener Salt 15Kg bags,$17.50,19
+PRI-0428,Gold Fields Australia - Granny Smith Mine,0,HF 133 IBC,"$10,940.00",19
+PRI-0429,Gold Fields Australia - Granny Smith Mine,0,HF 558 IBC,"$9,920.00",19
+PRI-0430,Gold Fields Australia - Granny Smith Mine,0,HF 690 IBC,"$5,240.00",19
+PRI-0431,Gold Fields Australia - Gruyere Mine,0,HF 133 (p/l),$9.50,19
+PRI-0432,Gold Fields Australia - Gruyere Mine,0,HF 133 1000L,"$10,943.00",19
+PRI-0433,Gold Fields Australia - Gruyere Mine,0,HF 198 1000L,"$9,540.00",19
+PRI-0434,Gold Fields Australia - Gruyere Mine,0,HF 320S 1000L,"$8,980.00",19
+PRI-0435,Gold Fields Australia - Gruyere Mine,0,HF 510 (p/L),$11.00,19
+PRI-0436,Gold Fields Australia - Gruyere Mine,0,HF 720 1000L,"$1,544.00",19
+PRI-0437,GV Independent Packers,,HF 143 (15L),$194.70,20
+PRI-0438,GV Independent Packers,,HF 730 (20L),$57.60,20
+PRI-0439,GV Independent Packers,,HF 730 (L),$2.88,20
+PRI-0440,GV Independent Packers,0,HF 198 (15L),$70.50,20
+PRI-0441,GV Independent Packers,0,HF 245 (5L) no charge,$37.50,20
+PRI-0442,GV Independent Packers,0,HF 320 (15L),$99.00,20
+PRI-0443,GV Independent Packers,0,HF 322 (15 L),$99.00,20
+PRI-0444,GV Independent Packers,0,HF 322 (20L),$132.00,20
+PRI-0445,GV Independent Packers,0,HF 322 (per L),$6.60,20
+PRI-0446,GV Independent Packers,1,HF 133 (20L),$173.20,20
+PRI-0447,GV Storage (Zurcas),0,HF 143 (15L),$194.70,20
+PRI-0448,GV Storage (Zurcas),0,HF 143 (L),$12.98,20
+PRI-0449,GV Storage (Zurcas),0,HF 1543 (1000L IBC),"$2,250.00",20
+PRI-0450,GV Storage (Zurcas),0,HF 1543 (L),$2.25,20
+PRI-0451,GV Storage (Zurcas),0,HF 1544 (20L),$254.00,20
+PRI-0452,GV Storage (Zurcas),0,HF 1544 (L),$12.70,20
+PRI-0453,GV Storage (Zurcas),0,HF 195 (15L),$43.50,20
+PRI-0454,GV Storage (Zurcas),0,HF 195 (L),$2.90,20
+PRI-0455,GV Storage (Zurcas),0,HF 198 (15L),$70.50,20
+PRI-0456,GV Storage (Zurcas),0,HF 198 (L),$5.20,20
+PRI-0457,GV Storage (Zurcas),0,HF 245 (5L) DO NOT CHARGE,$37.50,20
+PRI-0458,GV Storage (Zurcas),0,HF 322 (15L) / HF 320 (15L),$99.00,20
+PRI-0459,GV Storage (Zurcas),0,HF 322 (20L),$132.00,20
+PRI-0460,GV Storage (Zurcas),0,HF 322 (L),$6.60,20
+PRI-0461,GV Storage (Zurcas),0,HF 730 (L),$2.88,20
+PRI-0462,GV Storage (Zurcas),0,HF 860 (15L),$44.55,20
+PRI-0463,GV Storage (Zurcas),0,HF 860 (L),$2.97,20
+PRI-0464,GV Storage (Zurcas),Charge,HF 133 (20L),$173.20,20
+PRI-0465,GV Storage (Zurcas),for all chems,HF 133 (L),$7.98,20
+PRI-0466,H & R ANZ Pty Ltd,,HF 530 (20L),$88.00,21
+PRI-0467,H & R ANZ Pty Ltd,,HF 532 (20L),$218.00,21
+PRI-0468,H & R ANZ Pty Ltd,,HF 536 (20L),$188.00,21
+PRI-0469,H & R ANZ Pty Ltd,,HF 538 (20L),$282.00,21
+PRI-0470,H & R ANZ Pty Ltd,,HF 558 (20L),$396.00,21
+PRI-0471,H & R ANZ Pty Ltd,,HF 740 (20L),$56.00,21
+PRI-0472,H & R ANZ Pty Ltd,,HF 828 (15L),$165.00,21
+PRI-0473,H & R ANZ Pty Ltd,,Maxitreat 450 (18kg),$126.00,21
+PRI-0474,H & R ANZ Pty Ltd,,Tacmina Pump,"$1,065.00",21
+PRI-0475,H & R ANZ Pty Ltd,,Tower Disinfection - each,$120.00,21
+PRI-0476,Harcourt Cooperative Cool Stores,0,HF 195 (per L) (Fruit Wash only),$2.48,21
+PRI-0477,Hazell Bros Group,0,HF 1531 (IBC),"$2,200.00",21
+PRI-0478,Hazell Bros Group,0,HF 740 (IBC),"$2,400.00",21
+PRI-0479,Hazell Bros Group,0,HF 755 (IBC),"$2,400.00",21
+PRI-0480,Healthe Care - Mulgrave Private Hospital,,Softener Salt (25Kg),$34.20,21
+PRI-0481,Healthe Care - Mulgrave Private Hospital,0,HF510(15L)For closed loop quotes only,$280.00,21
+PRI-0482,Hellyers Road Distillery (Whisky Tasmania Pty,,HF 134D (L),$8.25,21
+PRI-0483,Hellyers Road Distillery (Whisky Tasmania Pty,,HF 138 (20L),$154.00,21
+PRI-0484,Hellyers Road Distillery (Whisky Tasmania Pty,,HF 138 (L),$7.70,21
+PRI-0485,Hellyers Road Distillery (Whisky Tasmania Pty,,HF 195 (15L),$63.00,21
+PRI-0486,Hellyers Road Distillery (Whisky Tasmania Pty,,HF 307 (20L),$136.00,21
+PRI-0487,Hellyers Road Distillery (Whisky Tasmania Pty,,HF 307 (L),$6.80,21
+PRI-0488,Honeywell - AgriBio (Automation & Control Sol,0,HC 2720 (25 L),$221.00,22
+PRI-0489,Honeywell Limited - Marvel Stadium,0,Reed Switch for ARAD Water Meter inc inst,$150.00,22
+PRI-0490,Hotel Hyatt Centric Melbourne,0,HF195 (15L),$30.00,22
+PRI-0491,Huntsman Polyurethane,0,HF 133 (20L),$356.00,22
+PRI-0492,Huntsman Polyurethane,0,HF 133D (20L),$398.00,22
+PRI-0493,Huntsman Polyurethane,0,HF 133D (per L),$19.90,22
+PRI-0494,Huntsman Polyurethane,0,HF 137 (15L),$318.00,22
+PRI-0495,Huntsman Polyurethane,0,HF 139 (20 L),$362.00,22
+PRI-0496,Huntsman Polyurethane,0,HF 165 (per L),$13.00,22
+PRI-0497,Huntsman Polyurethane,0,HF 198 (15L),$396.00,22
+PRI-0498,Huntsman Polyurethane,0,HF 315 (20L),$198.00,22
+PRI-0499,Huntsman Polyurethane,0,HF 510 (15L),$337.50,22
+PRI-0500,Huntsman Polyurethane,7000152248,HF 115 (L) - HF 115 B (L),$12.00,22
+PRI-0501,I.M. Sweet Pty Ltd,0,HF 133 (15L),$186.60,22
+PRI-0502,I.M. Sweet Pty Ltd,0,HF 143 (15L),$186.60,22
+PRI-0503,I.M. Sweet Pty Ltd,0,HF 198 (15L),$104.70,22
+PRI-0504,I.M. Sweet Pty Ltd,0,HF 322 (15L),$111.00,22
+PRI-0505,In Vitro Technologies,0,Softener Salt 25Kg bags,$16.25,22
+PRI-0506,IVE Group Australia (trading as Franklin Web),,HF 138 (20L),$480.00,23
+PRI-0507,IVE Group Australia (trading as Franklin Web),,HF 530 (20L),$144.00,23
+PRI-0508,IVE Group Australia (trading as Franklin Web),,HF 535 (20L),$120.00,23
+PRI-0509,IVE Group Australia (trading as Franklin Web),,HF 558 (20L),$498.00,23
+PRI-0510,IVE Group Australia (trading as Franklin Web),,HF 559 (20L),$498.00,23
+PRI-0511,IVE Group Australia (trading as Franklin Web),,HF 563 (20L),$96.00,23
+PRI-0512,IVE Group Australia (trading as Franklin Web),,HF 628 / HF 630 (20L),$182.00,23
+PRI-0513,Jalplas,0,HF 133 (20L),$256.00,23
+PRI-0514,Jalplas,0,HF 143 (15L),$295.00,23
+PRI-0515,Jalplas,0,HF 558 (20L),$446.00,23
+PRI-0516,JBS Bordertown,,HF 1537M ($107.25/15 kg),$107.25,23
+PRI-0517,JBS Bordertown,,HF 3092 IBC ($2/L),"$2,000.00",23
+PRI-0518,JBS Bordertown,,HF 532 15L ($8.75/L),$131.25,23
+PRI-0519,JBS Bordertown,,HF 558 15L ($21.05/L),$315.75,23
+PRI-0520,JBS Bordertown,,HF 828 15L ($9.22/L),$138.30,23
+PRI-0521,JBS Bordertown,,HF 830 15L ($4.80/L),$72.00,23
+PRI-0522,JBS Bordertown,,HF 845 15L ($9.36/L),$140.40,23
+PRI-0523,JBS Bordertown,0,HF 845 20L ($9.36 p/l),$187.20,23
+PRI-0524,JDK Management Pty Ltd T/A Anspac Cold Sto,,HF 143 (15L),$122.25,23
+PRI-0525,JDK Management Pty Ltd T/A Anspac Cold Sto,0,HF 143 (L),$8.15,23
+PRI-0526,JDK Management Pty Ltd T/A Anspac Cold Sto,0,HF 198 (15L),$104.00,23
+PRI-0527,JDK Management Pty Ltd T/A Anspac Cold Sto,0,HF 198 (per L),$6.93,23
+PRI-0528,JDK Management Pty Ltd T/A Anspac Cold Sto,0,HF 320 (15L),$96.00,23
+PRI-0529,JDK Management Pty Ltd T/A Anspac Cold Sto,0,HF 322 (15 L),$103.50,23
+PRI-0530,JDK Management Pty Ltd T/A Anspac Cold Sto,0,HF 322 (20L),$138.00,23
+PRI-0531,JM Water Services,0,HC 2842 15L,$127.50,24
+PRI-0532,JM Water Services,0,HC2842 (Air Freshener) (By Pallet) (L),$7.00,24
+PRI-0533,JM Water Services,0,HF 1588 (15Lt),$85.00,24
+PRI-0534,JM Water Services,0,HF 245 (P/L),$11.52,24
+PRI-0535,JM Water Services,0,HF 720 (15L),$46.50,24
+PRI-0536,JM Water Services,0,HF1542 (30% dadmac) (By Pallet) (L),$5.95,24
+PRI-0537,JM Water Services,0,HF1544 (ACH) (BY PALLETS) (L),$6.40,24
+PRI-0538,JM Water Services,0,HF1570 (25kg) (L),$6.45,24
+PRI-0539,JM Water Services,0,HF720 (L),$3.10,24
+PRI-0540,JM Water Services,0,HF860 (15L),$52.50,24
+PRI-0541,JM Water Services,0,HF860 (L),$3.50,24
+PRI-0542,JM Water Services,0,Softener Salt (15Kg),$8.50,24
+PRI-0543,John Di Natale Engineering,0,842 (15L) 2014,$60.00,24
+PRI-0544,John Di Natale Engineering,0,HF 230 (20L),$70.00,24
+PRI-0545,John Di Natale Engineering,0,HF 295 (20L),$50.00,24
+PRI-0546,John Di Natale Engineering,0,HF 410 (20L),$58.00,24
+PRI-0547,John Di Natale Engineering,0,HF 828 (20L),$68.00,24
+PRI-0548,John Di Natale Engineering,0,HF 830 (15L) 2014,$42.00,24
+PRI-0549,John Di Natale Engineering,0,HF 842 (15L),$48.00,24
+PRI-0550,John Di Natale Engineering,0,HF 842 (20L),$60.00,24
+PRI-0551,John Di Natale Engineering,0,HF 852 (20L),$62.00,24
+PRI-0552,Junee Prime Lamb,,Citric Acid 50%- IBC,"$1,420.00",24
+PRI-0553,JV Orchards,0,Softener Salt (25Kg bag),$18.75,24
+PRI-0554,JV Orchards,f,Softener Salt (1 Pallet),$792.00,24
+PRI-0555,Kagome Foods Australia Pty Ltd (ex-Cedenco),,HF 1540 25Kg,$162.50,25
+PRI-0556,Kagome Foods Australia Pty Ltd (ex-Cedenco),,HF 1540 Pallet (40 x 25kg bags),"$4,875.00",25
+PRI-0557,Kagome Foods Australia Pty Ltd (ex-Cedenco),,HF 1542 (Kg),$3.05,25
+PRI-0558,Kagome Foods Australia Pty Ltd (ex-Cedenco),,HF 1558 (15kg) - PALLET @$6.58per KG,$6.58,25
+PRI-0559,Kagome Foods Australia Pty Ltd (ex-Cedenco),,HF 165 (L),$10.30,25
+PRI-0560,Kagome Foods Australia Pty Ltd (ex-Cedenco),,HF 193 (50KG),$0.00,25
+PRI-0561,Kagome Foods Australia Pty Ltd (ex-Cedenco),,HF 193 (each) (19.8Kg),$296.25,25
+PRI-0562,Kagome Foods Australia Pty Ltd (ex-Cedenco),,HF 195 (L for IBC),$0.91,25
+PRI-0563,Kagome Foods Australia Pty Ltd (ex-Cedenco),,HF 195 (L),$4.27,25
+PRI-0564,Kagome Foods Australia Pty Ltd (ex-Cedenco),,HF 198 (L),$10.25,25
+PRI-0565,Kagome Foods Australia Pty Ltd (ex-Cedenco),,HF 230 (L),$12.32,25
+PRI-0566,Kagome Foods Australia Pty Ltd (ex-Cedenco),,HF 246 (L),$12.35,25
+PRI-0567,Kagome Foods Australia Pty Ltd (ex-Cedenco),,HF 307P (L) - HF 307 (L) (even for IBC),$4.21,25
+PRI-0568,Kagome Foods Australia Pty Ltd (ex-Cedenco),,HF 322 (L),$9.25,25
+PRI-0569,Kagome Foods Australia Pty Ltd (ex-Cedenco),,HF 355 (L),$9.52,25
+PRI-0570,Kagome Foods Australia Pty Ltd (ex-Cedenco),,HF 730 (L),$4.68,25
+PRI-0571,Kagome Foods Australia Pty Ltd (ex-Cedenco),,HF 740 (L),$4.68,25
+PRI-0572,Kagome Foods Australia Pty Ltd (ex-Cedenco),,HF 830 (L),$6.25,25
+PRI-0573,Kagome Foods Australia Pty Ltd (ex-Cedenco),,HF 845 - HF 845FG - (1000L) (p/l ),$12.37,25
+PRI-0574,Kagome Foods Australia Pty Ltd (ex-Cedenco),,HF 860 (L),$0.98,25
+PRI-0575,Kagome Foods Australia Pty Ltd (ex-Cedenco),,HF 865 (kg),$0.00,25
+PRI-0576,Kagome Foods Australia Pty Ltd (ex-Cedenco),,HF1242 (L),$12.48,25
+PRI-0577,Kagome Foods Australia Pty Ltd (ex-Cedenco),,HF1420 (15L),$88.50,25
+PRI-0578,Kagome Foods Australia Pty Ltd (ex-Cedenco),,HF1420 (L),$7.37,25
+PRI-0579,Kagome Foods Australia Pty Ltd (ex-Cedenco),,HF198 (15L),$153.00,25
+PRI-0580,Kagome Foods Australia Pty Ltd (ex-Cedenco),,Hydrochloric Acid (kg),$0.00,25
+PRI-0581,Kagome Foods Australia Pty Ltd (ex-Cedenco),,Ion Exchange Resin (Kg),$11.45,25
+PRI-0582,Kagome Foods Australia Pty Ltd (ex-Cedenco),,Palintest Softner Tablets,$49.00,25
+PRI-0583,Kagome Foods Australia Pty Ltd (ex-Cedenco),,Sodium Chlorite (kg),$0.00,25
+PRI-0584,Kagome Foods Australia Pty Ltd (ex-Cedenco),,Softener Salt (Kg),$1.07,25
+PRI-0585,Kagome Foods Australia Pty Ltd (ex-Cedenco),,Tannin 2 reagent tablets (ea),$88.00,25
+PRI-0586,Kagome Foods Australia Pty Ltd (ex-Cedenco),7,Enviropro per set,$264.00,25
+PRI-0587,Karadoc Logistics Hub Pty Ltd,,HF 143 15L ($14.10 p/L),$211.50,26
+PRI-0588,Karadoc Logistics Hub Pty Ltd,,HF 195 (15L),$21.30,26
+PRI-0589,Karadoc Logistics Hub Pty Ltd,,HF 198 15L ($10.22 p/L),$153.30,26
+PRI-0590,Karadoc Logistics Hub Pty Ltd,,HF 307 (L) includes bio-dispersant,$4.94,26
+PRI-0591,Karadoc Logistics Hub Pty Ltd,,HF 312s 15L ($9.65p/L),$144.75,26
+PRI-0592,Karadoc Logistics Hub Pty Ltd,,HF 532 15L ($8.75 p/L) - Closed Circuit,$131.25,26
+PRI-0593,Karadoc Logistics Hub Pty Ltd,,HF 558 15L ($21.05 p/L) - Closed Circuit,$315.75,26
+PRI-0594,Karadoc Logistics Hub Pty Ltd,,HF 730 (15L),$34.50,26
+PRI-0595,Karadoc Logistics Hub Pty Ltd,,HF 828 15L ($9.22 p/L) - Boiler,$138.30,26
+PRI-0596,Karadoc Logistics Hub Pty Ltd,,HF 830 15L ($4.80 p/L) - Boiler,$72.00,26
+PRI-0597,Karadoc Logistics Hub Pty Ltd,,HF 845C (L) - Boiler,$6.48,26
+PRI-0598,Karadoc Logistics Hub Pty Ltd,,HF 845FG 15L ($9.36 p/L) Boiler,$140.40,26
+PRI-0599,Karadoc Logistics Hub Pty Ltd,,Softener Salt (Per Pallet only),$0.68,26
+PRI-0600,Kinross Farm,,HF 690 (25L),$78.75,26
+PRI-0601,Kinross Farm,0,HF 740 (110L),$269.50,26
+PRI-0602,Kinross Farm,0,HF 740 (15L),$36.75,26
+PRI-0603,Kisaan,0,HF 230 (15Lt),$150.00,26
+PRI-0604,Kisaan,0,HF 830 (15Lt),$75.00,26
+PRI-0605,Kisaan,0,HF 845FG (15Lt),$105.00,26
+PRI-0606,Kisaan,0,Softener Salt 15Kg bag,$12.00,26
+PRI-0607,Knight Frank - 99 King Street (Citic House),0,HF 510 (15L),$144.00,26
+PRI-0608,Knight Frank - 99 King Street (Citic House),0,HF 558 (20L),$389.50,26
+PRI-0609,Labelmakers Group Pty Ltd,0,HF 563,$0.00,27
+PRI-0610,Labelmakers Group Pty Ltd,0,HF133 (20L),$256.00,27
+PRI-0611,Labelmakers Group Pty Ltd,0,HF275 (20L),$322.00,27
+PRI-0612,Labelmakers Group Pty Ltd,0,HF410 (20KG),$164.00,27
+PRI-0613,Labelmakers Group Pty Ltd,0,HF538 (20L),$225.00,27
+PRI-0614,Labelmakers Group Pty Ltd,0,HF558 (20L),$336.00,27
+PRI-0615,Labelmakers Group Pty Ltd,0,HF628 (20L),$120.00,27
+PRI-0616,Labelmakers Group Pty Ltd,0,HF845 (20L),$160.00,27
+PRI-0617,Labelmakers Group Pty Ltd,0,Softener Salt per bag,$15.20,27
+PRI-0618,Labelmakers Group Pty Ltd - VIP,0,HF 133 (20L),$256.00,27
+PRI-0619,Labelmakers Group Pty Ltd - VIP,0,HF 558 (20L),$336.00,27
+PRI-0620,Labelmakers Group Pty Ltd - VIP,0,HF 628 (20L),$120.00,27
+PRI-0621,Leneva Park,,HF 195 IBC,"$1,000.00",27
+PRI-0622,Lineage Logistics - Hume Road (AB Oxford Col,0,"1/2"" Solenoid Valve",$350.00,27
+PRI-0623,Lineage Logistics - Hume Road (AB Oxford Col,0,Conductivity Controller,"$2,800.00",27
+PRI-0624,Lineage Logistics - Hume Road (AB Oxford Col,0,Squeeze tubes,$57.00,27
+PRI-0625,LMA (TMA Group),0,HF 133 (20L),$208.00,27
+PRI-0626,LMA (TMA Group),0,HF 530 (20L),$156.00,27
+PRI-0627,Lochert Bros Pty Ltd,,HC 2445 (200L),"$1,776.00",27
+PRI-0628,Lochert Bros Pty Ltd,,HC 2448 (15L),$72.00,27
+PRI-0629,Lochert Bros Pty Ltd,,HC 2448 (L),$4.80,27
+PRI-0630,Lochert Bros Pty Ltd,,HF 845 per L,$8.10,28
+PRI-0631,Lochert Bros Pty Ltd,,HF 865 per L,$2.35,28
+PRI-0632,Lochert Bros Pty Ltd,,Profoam -25L,$129.59,28
+PRI-0633,Loral Ipsum,0,HF 510 15L,$160.00,28
+PRI-0634,Loral Ipsum,0,HF 558 15L,$409.35,28
+PRI-0635,Loral Ipsum,0,HF 558 20L,$545.72,28
+PRI-0636,Loris H Hassall Trading,5607,HF860 (CAUSTIC IBC),"$1,218.00",28
+PRI-0637,LRT/VRT Refrigerated Transport,,HF 144 (15L),$165.00,28
+PRI-0638,LRT/VRT Refrigerated Transport,,HF 144 (L),$11.00,28
+PRI-0639,LRT/VRT Refrigerated Transport,,HF 320S (15L),$121.50,28
+PRI-0640,LRT/VRT Refrigerated Transport,,HF 320S (L),$8.10,28
+PRI-0641,LRT/VRT Refrigerated Transport,,HF 532 (20L),$133.00,28
+PRI-0642,LRT/VRT Refrigerated Transport,,HF 532 (L),$6.65,28
+PRI-0643,LRT/VRT Refrigerated Transport,,HF 558 (10L),$160.50,28
+PRI-0644,LRT/VRT Refrigerated Transport,,HF 558 (L),$16.05,28
+PRI-0645,LRT/VRT Refrigerated Transport,0,HF 133 (20L),$165.00,28
+PRI-0646,LRT/VRT Refrigerated Transport,0,HF 198 (15L),$89.70,28
+PRI-0647,LRT/VRT Refrigerated Transport,0,HF 198 (L) - CTS,$6.88,28
+PRI-0648,LRT/VRT Refrigerated Transport,0,HF 312 (15L),$121.50,28
+PRI-0649,LRT/VRT Refrigerated Transport,0,HF143 (15L),$153.00,28
+PRI-0650,Mackay Australia (Ex Consolidated Industries P,,HF 133 (20L) - Fr Jun-20 - JH (to check),$256.00,28
+PRI-0651,Mackay Australia (Ex Consolidated Industries P,,HF 230 (20L) - Fr Mar-26,$0.00,28
+PRI-0652,Mackay Australia (Ex Consolidated Industries P,,HF 720 (15L) - Fr Mar-26,$71.00,28
+PRI-0653,Mackay Australia (Ex Consolidated Industries P,,HF 830 (15L) - Fr Mar-26,$132.00,28
+PRI-0654,Made Group,,HF 307 (15L) - CT,$111.00,29
+PRI-0655,Made Group,,HF 845FG (15L) Updated 05.26,$148.50,29
+PRI-0656,Made Group,,HF 410 (15L) - Steam Generator - NA,$87.75,29
+PRI-0657,Made Group,,HF 415 (15L) - Fr Feb-20,$148.00,29
+PRI-0658,Made Group,0,40” carbon cartridges (each),$77.00,29
+PRI-0659,Made Group,0,HF 133 (L),$6.60,29
+PRI-0660,Made Group,0,HF 133 (15lt),$99.00,29
+PRI-0661,Made Group,0,HF 195 (10L),$45.00,29
+PRI-0662,Made Group,0,HF 195 (15L),$67.50,29
+PRI-0663,Made Group,0,HF 198 (10L),$58.67,29
+PRI-0664,Made Group,0,HF 198 (15L) - CT,$88.00,29
+PRI-0665,Made Group,0,HF 295 (15L) - Steam Generator,$78.00,29
+PRI-0666,Made Group,0,HF 307 (10L),$52.00,29
+PRI-0667,Made Group,0,HF 410 (20L) - Steam Generator - NA,$117.00,29
+PRI-0668,Made Group,0,HF 530 (20L) - Steam Generator,$116.00,29
+PRI-0669,Made Group,0,HF 740 (10L),$21.00,29
+PRI-0670,Made Group,0,HF 740 (L) - TW,$2.55,29
+PRI-0671,Made Group,0,HF 828 15L,$188.52,29
+PRI-0672,Made Group,0,HF 852 (15L),$192.00,29
+PRI-0673,Made Group,0,HF 860 (L) - TW,$2.42,29
+PRI-0674,Made Group,0,Softener Salt - 48 x 25kg bags - Steam Gen,"$1,236.00",29
+PRI-0675,Made Group,0,Softener Salt 15kg bags,$25.00,29
+PRI-0676,Made Group,0,Softener Salt 80 x 15KG bags = Pallet,"$1,500.00",29
+PRI-0677,Maroondah Council - Aquahub,0,HF 133 (15L),$205.00,29
+PRI-0678,Maroondah Council - Aquahub,0,HF 510 (15L),$175.00,29
+PRI-0679,Maroondah Council - Aquanation,0,HF 133 (15L) - CLS,$205.00,29
+PRI-0680,Maroondah Council - Aquanation,0,HF 558 (15L) - CLS,$312.00,29
+PRI-0681,Masalki Orchards and Coolstores - Verney Roa,,HF 198 (15L),$78.00,30
+PRI-0682,Masalki Orchards and Coolstores - Verney Roa,,HF 320 (15L),$96.00,30
+PRI-0683,Masalki Orchards and Coolstores - Verney Roa,,HF 320 (20L),$128.00,30
+PRI-0684,Masalki Orchards and Coolstores - Verney Roa,,HF 322 (15L),$96.00,30
+PRI-0685,Masalki Orchards and Coolstores - Verney Roa,,HF 322 (20L),$138.00,30
+PRI-0686,Masalki Orchards and Coolstores - Verney Roa,,HF 322 (per L),$6.90,30
+PRI-0687,Masalki Pty Ltd - Midland Highway,0,HF 133 (15L),$122.25,30
+PRI-0688,Masalki Pty Ltd - Midland Highway,0,HF 133 (20L),$163.00,30
+PRI-0689,Masalki Pty Ltd - Midland Highway,0,HF 143 (15L),$162.90,30
+PRI-0690,Masalki Pty Ltd - Midland Highway,0,HF 198 (15L),$78.00,30
+PRI-0691,Masalki Pty Ltd - Midland Highway,0,HF 322 (15L),$96.00,30
+PRI-0692,Master Butcher Limited,,HC-2482 (IBC),"$3,680.00",30
+PRI-0693,Mattina Fresh Pty Ltd,0,HF 144 (15L) Non-billable as of 1/8/23,$0.00,30
+PRI-0694,Med-X,0,HF 740 15L,$56.40,30
+PRI-0695,Med-X,0,HF 740 20L,$75.29,30
+PRI-0696,Med-X,0,HF 845 15L,$145.00,30
+PRI-0697,Med-X,0,HF 860 15L,$63.00,30
+PRI-0698,Merbein Mushrooms,,HF 133 (15L),$153.00,30
+PRI-0699,Merbein Mushrooms,0,HF 320 (15L),$153.00,30
+PRI-0700,Mewstone Wines,0,HF 245 15L,$165.00,31
+PRI-0701,Mewstone Wines,0,HF 740 (20L),$44.00,31
+PRI-0702,Mick Drum - Cash Only,0,HF1544 (15L),$80.00,31
+PRI-0703,Mildura Meat Co. Pty Ltd (Cedar Meats),,HF 307 (L),$5.02,31
+PRI-0704,Mildura Meat Co. Pty Ltd (Cedar Meats),0,HF 133 (L),$5.97,31
+PRI-0705,Mildura Meat Co. Pty Ltd (Cedar Meats),0,HF 198 (L),$5.88,31
+PRI-0706,Mildura Meat Co. Pty Ltd (Cedar Meats),0,HF 312 15L,$96.75,31
+PRI-0707,Mildura Meat Co. Pty Ltd (Cedar Meats),0,HF 322 (L),$6.45,31
+PRI-0708,Mildura Meat Co. Pty Ltd (Cedar Meats),0,HF 558 (15L),$270.00,31
+PRI-0709,Mildura Meat Co. Pty Ltd (Cedar Meats),0,HF 730 (L),$2.99,31
+PRI-0710,Mirvac - 80 Ann St,0,HF510 (15L),$420.00,31
+PRI-0711,Mirvac - 80 Ann St,0,HF558 (15L),$510.00,31
+PRI-0712,Mirvac - Collins Place Complex (45 Collins Stree,,HF 510 (L) - ONLY IF EXCESS WATER L,$15.00,31
+PRI-0713,Mirvac - Collins Place Complex (45 Collins Stree,0,HF 558 (20L) - ONLY IF EXCESS WATER,$532.00,31
+PRI-0714,Moffatt Fresh Produce,,HC 2410 (25L),$68.75,31
+PRI-0715,Moffatt Fresh Produce,0,HC 2470 (25 L),$74.50,31
+PRI-0716,Moka Foods,,HF 198 (15L),$145.00,32
+PRI-0717,Moka Foods,,HF 230 (15L),$295.00,32
+PRI-0718,Moka Foods,,HF 285 (25kg) (old price),$56.00,32
+PRI-0719,Moka Foods,,HF 295 (20L) (old price),$129.34,32
+PRI-0720,Moka Foods,,HF 305 (15L),$135.00,32
+PRI-0721,Moka Foods,,HF 410 (15L),$185.00,32
+PRI-0722,Moka Foods,,HF 410 (20L) (old price),$218.00,32
+PRI-0723,Moka Foods,,HF 845 (15L),$180.00,32
+PRI-0724,Moka Foods,,Softener salt (old price),$15.20,32
+PRI-0725,Monbeef Cooma,,HF 1550 (KG),$9.88,32
+PRI-0726,Monbeef Cooma,0,BACTECH - 362 25KG,"$2,800.00",32
+PRI-0727,Monbeef Cooma,0,HF 1537 (KG),$10.15,32
+PRI-0728,Monbeef Cooma,0,HF 3092 (IBC),"$3,850.00",32
+PRI-0729,Monbeef Cooma,0,HF 720 (IBC),"$2,450.00",32
+PRI-0730,Monbeef Cooma,0,HF 805P (20KG BAG),$37.50,32
+PRI-0731,Moo Brew - Bridgewater,,Geobag (dewatering bags) (per bag) - Fr A,$180.00,32
+PRI-0732,Moo Brew - Bridgewater,,HF 1544 (15L),$59.55,32
+PRI-0733,Moo Brew - Bridgewater,,HF 3901 (Per Packet of 250g) - Fr Oct-19,$31.00,32
+PRI-0734,Moo Brew - Bridgewater,,HF 740 (20L),$56.00,32
+PRI-0735,Moo Brew - Bridgewater,,HF 860 (15L),$42.75,32
+PRI-0736,Moo Brew - Bridgewater,,HF740 (L),$2.80,32
+PRI-0737,Moo Brew - Bridgewater,,HF860 (L),$2.85,32
+PRI-0738,Moo Brew - Bridgewater,,Softener Salt (per bag),$15.05,32
+PRI-0739,Moo Brew - Bridgewater,0,HF295 (20L),$98.00,32
+PRI-0740,Moo Brew - Bridgewater,0,HF410 (15L),$109.50,32
+PRI-0741,Moo Brew - Bridgewater,0,HF410 (20L),$146.00,32
+PRI-0742,Moo Brew - Bridgewater,0,Water meter 20mm (ea),$385.00,32
+PRI-0743,Mountain Culture Beer - Moonah,0,Carbon Cartridge (Per),$105.00,33
+PRI-0744,Mountain Culture Beer - Moonah,0,Filter Cartidge (Per),$33.00,33
+PRI-0745,Mountain Culture Beer - Moonah,0,HF845C (15L),$183.00,33
+PRI-0746,Mountain Culture Beer - Moonah,0,HF860(15L),$33.00,33
+PRI-0747,Mr Hendersonwater P/L,,HF 133 (200L),$800.00,33
+PRI-0748,Mr Hendersonwater P/L,0,HF 307 (200L),$800.00,33
+PRI-0749,MSM Milling Pty Ltd,0,HF 320 QT (15L),$205.00,33
+PRI-0750,MSM Milling Pty Ltd,0,HF133 (15L),$138.00,33
+PRI-0751,MSM Milling Pty Ltd,0,HF198 (15L),$141.00,33
+PRI-0752,MSM Milling Pty Ltd,0,HF230 (200L),"$2,080.00",33
+PRI-0753,MSM Milling Pty Ltd,0,HF295 (200L),"$1,210.00",33
+PRI-0754,MSM Milling Pty Ltd,0,HF307Q (15L),$147.00,33
+PRI-0755,MSM Milling Pty Ltd,0,HF322 (15L),$205.00,33
+PRI-0756,MSM Milling Pty Ltd,0,HF410 (200L),"$1,860.00",33
+PRI-0757,MSM Milling Pty Ltd,0,HF828 (200L),"$1,910.00",33
+PRI-0758,MSM Milling Pty Ltd,0,HF845C (15L),$164.00,33
+PRI-0759,MSM Milling Pty Ltd,0,HF845C (20L),$198.00,33
+PRI-0760,Multi-Colour Corporation (Previously Pemara L,0,HF 133 (20 L),$208.00,33
+PRI-0761,Multi-Colour Corporation (Previously Pemara L,0,HF 532 (20 L),$156.00,33
+PRI-0762,National Gallery of Victoria (NGV),,HC 2571 (15L),$99.00,33
+PRI-0763,National Gallery of Victoria (NGV),,HC 2571 (20L) (20L every 4 months),$132.00,33
+PRI-0764,National Gallery of Victoria (NGV),,HF 195 (110L) (Updated 05.26),$205.70,33
+PRI-0765,National Gallery of Victoria (NGV),,HF 195 (15L) (Updated 05.26),$28.05,33
+PRI-0766,National Gallery of Victoria (NGV),,HF 610 per litre - NA fr Jul-19,$3.45,34
+PRI-0767,National Gallery of Victoria (NGV),,HF 740 (15Lt) (Updated 05.26),$21.30,34
+PRI-0768,National Gallery of Victoria (NGV),,HF 740 per ltr (Updated 05.26),$1.42,34
+PRI-0769,National Gallery of Victoria (NGV),,HF 860 per litre,$1.40,34
+PRI-0770,National Gallery of Victoria (NGV),,Soda Ash per kg in pallet lots - NA fr Jul-19,$0.75,34
+PRI-0771,National Gallery of Victoria (NGV),,Sulphamic acid 25kg (Updated 05.26),$314.17,34
+PRI-0772,National Gallery of Victoria (NGV),o,HF 246 (L) (Updated 05.26),$18.62,34
+PRI-0773,National Laser Group (Braeside),0,HF133 (20L),$132.00,34
+PRI-0774,National Laser Group (Braeside),0,HF558 (20L),$420.00,34
+PRI-0775,National Laser Group (Braeside),0,HF563 (20L),$98.00,34
+PRI-0776,NCI Packaging Pty Ltd - Glendenning,0,HF 133 (20L),$190.00,34
+PRI-0777,NCI Packaging Pty Ltd - Glendenning,0,HF 532 (20L),$128.00,34
+PRI-0778,NCI Packaging Pty Ltd - Glendenning,0,HF 558 (15L),$280.00,34
+PRI-0779,NCI Packaging Pty Ltd - Glendenning,0,HF 572 (20 L),$160.00,34
+PRI-0780,NCI Packaging Pty Ltd - Glendenning,0,HF 628 (20L),$118.00,34
+PRI-0781,NCI Packaging Pty Ltd - Preston,0,Additional Service Visit,$120.00,34
+PRI-0782,NCI Packaging Pty Ltd - Preston,0,HF 133 (1L),$9.50,34
+PRI-0783,NCI Packaging Pty Ltd - Preston,0,HF 165 (20L),$212.00,34
+PRI-0784,NCI Packaging Pty Ltd - Preston,0,HF 530 (20L),$195.00,34
+PRI-0785,NCI Packaging Pty Ltd - Preston,0,HF 535 (20L),$236.00,34
+PRI-0786,NCI Packaging Pty Ltd - Preston,0,HF 558 (20L),$281.00,34
+PRI-0787,NCI Packaging Pty Ltd - Preston,0,HF 628 (20L),$118.00,34
+PRI-0788,NCI Packaging Pty Ltd - Preston,0,HF532 (20L),$128.00,34
+PRI-0789,NCI Packaging Pty Ltd - Tullamarine,0,HF510 (15L),$240.00,34
+PRI-0790,NKS Fresh,,HF 730 (15L),$74.25,35
+PRI-0791,Noumi Limited (aka Freedom Foods),0,HF 1550E (IBC),"$8,682.00",35
+PRI-0792,Noumi Limited (aka Freedom Foods),0,HF 860 (IBC),"$1,150.00",35
+PRI-0793,Noumi Limited (aka Freedom Foods),0,HF720 (IBC),"$1,480.00",35
+PRI-0794,Noumi Limited (aka Freedom Foods),0,HF730 Citric Acid (20L),$0.00,35
+PRI-0795,NRG Services Group - Toowoomba Hospital,0,HF 133,$0.00,35
+PRI-0796,NRG Services Group - Toowoomba Hospital,0,HF 510,$0.00,35
+PRI-0797,Nufarm Ltd - Pipe Road,,Citric Acid (25Kg) - Fr Feb-20,$45.00,35
+PRI-0798,Nufarm Ltd - Pipe Road,,HF 115 (15L),$223.50,35
+PRI-0799,Nufarm Ltd - Pipe Road,,HF 115 (20L) - From Sep-19,$298.00,35
+PRI-0800,Nufarm Ltd - Pipe Road,,HF 230 (20L),$182.00,35
+PRI-0801,Nufarm Ltd - Pipe Road,,HF 410 (15L),$117.00,35
+PRI-0802,Nufarm Ltd - Pipe Road,0,Barium Chloride 10% 250ml / each,$29.00,35
+PRI-0803,Nufarm Ltd - Pipe Road,0,Boiler Phosphate Kit / each,$238.00,35
+PRI-0804,Nufarm Ltd - Pipe Road,0,Chlorine Probe Cap Replacement & Calibra,$320.00,35
+PRI-0805,Nufarm Ltd - Pipe Road,0,HF 133D (L) N/C,$7.90,35
+PRI-0806,Nufarm Ltd - Pipe Road,0,HF 167 (L) N/C,$6.48,35
+PRI-0807,Nufarm Ltd - Pipe Road,0,HF 195 (L) N/C,$1.88,35
+PRI-0808,Nufarm Ltd - Pipe Road,0,HF 510 (L) - Charge,$7.20,35
+PRI-0809,Nufarm Ltd - Pipe Road,0,HF 730 (Citric Acid) 1000L,"$2,847.31",35
+PRI-0810,Nufarm Ltd - Pipe Road,0,HF 740 (L) N/C,$2.80,35
+PRI-0811,Nufarm Ltd - Pipe Road,0,HF 755 (15 L),$64.00,35
+PRI-0812,Nufarm Ltd - Pipe Road,0,HF 840 (L),$7.85,35
+PRI-0813,Nufarm Ltd - Pipe Road,0,Phenolphthalein 0.5% 250ml / each,$61.00,35
+PRI-0814,Nufarm Ltd - Pipe Road,0,Phosphate ampoules refill (box of 30) / eac,$104.00,35
+PRI-0815,Nufarm Ltd - Pipe Road,0,Sulphuric Acid N/50 500mls,$42.00,35
+PRI-0816,Obela Fresh Dips and Spreads Pty Ltd,0,Softener Salt 15Kg,$9.20,36
+PRI-0817,Obela Fresh Dips and Spreads Pty Ltd,533082,HF 1570 - DAF - Flocculant (25Kg),$255.00,36
+PRI-0818,Obela Fresh Dips and Spreads Pty Ltd,533082,HF 1588 - DAF - Coagulant (200L),$850.00,36
+PRI-0819,Obela Fresh Dips and Spreads Pty Ltd,533082,HF 720 - DAF - Acid (200L),$440.00,36
+PRI-0820,Obela Fresh Dips and Spreads Pty Ltd,533082,HF 720 - DAF - Acid (L),$2.20,36
+PRI-0821,Obela Fresh Dips and Spreads Pty Ltd,533082,HF 865 - DAF - Caustic (200L),$530.00,36
+PRI-0822,Olam Food Ingredients,0,HF 195 (15L),$30.90,36
+PRI-0823,Olam Food Ingredients,0,HF 3092 (20L),$85.00,36
+PRI-0824,Olam Food Ingredients,0,HF 410 (15L) (7.50 p/l),$112.50,36
+PRI-0825,Olam Food Ingredients,0,HF 415 (15L) ($12.33 p/l),$185.00,36
+PRI-0826,Olam Food Ingredients,0,HF 828 (15L) (9.20 p/l),$138.00,36
+PRI-0827,Olam Food Ingredients,0,HF 845FG (15L) ($14.00 p/l),$210.00,36
+PRI-0828,Olam Food Ingredients,0,Soft'er Salt (Pallet lots only/half pallet $474.,$474.95,36
+PRI-0829,One Wallace Avenue Apartments - 1 Wallace Av,0,HF 338 10L,$284.12,36
+PRI-0830,Opus Griffin Press (formally PMP Print Pty Ltd,0,HF 133 (20L),$256.00,36
+PRI-0831,Opus Griffin Press (formally PMP Print Pty Ltd,0,HF 198 (15L),$132.00,36
+PRI-0832,Opus Griffin Press (formally PMP Print Pty Ltd,0,HF 245 (20L),$148.00,36
+PRI-0833,Opus Griffin Press (formally PMP Print Pty Ltd,0,HF 368 (20L),$464.00,36
+PRI-0834,Opus Griffin Press (formally PMP Print Pty Ltd,0,HF 510 (15L),$121.50,36
+PRI-0835,Opus Griffin Press (formally PMP Print Pty Ltd,0,HF 558 (20L),$364.00,36
+PRI-0836,Opus Griffin Press (formally PMP Print Pty Ltd,0,HF 622 (200L),$780.00,36
+PRI-0837,Opus Griffin Press (formally PMP Print Pty Ltd,0,HF 720 (20L),$192.00,36
+PRI-0838,Opus Griffin Press (formally PMP Print Pty Ltd,0,HF 740 (200L),$196.00,36
+PRI-0839,Opus Griffin Press (formally PMP Print Pty Ltd,0,HF 860 (15L),$48.40,36
+PRI-0840,Opus Griffin Press (formally PMP Print Pty Ltd,0,pH probes,$645.00,36
+PRI-0841,Orica Specialty Emulsifiers,,HF 139 (15L),$375.00,37
+PRI-0842,Orica Specialty Emulsifiers,,HF 530 (15L),$155.00,37
+PRI-0843,Orica Specialty Emulsifiers,,HF 530 (20L),$206.66,37
+PRI-0844,Orica Specialty Emulsifiers,,HF 558 (20L) - NA from Nov-19,$398.00,37
+PRI-0845,Orica Specialty Emulsifiers,,ORP probe (WA OP - 1.5MBNC),$285.93,37
+PRI-0846,Pacific Meat Sales Pty Ltd,0,HF740 (L),$3.89,37
+PRI-0847,Pacific Meat Sales Pty Ltd,0,One Off service - Pre-treatment Passivation,$880.00,37
+PRI-0848,Pavillion Farms,0,HF 382 15Lt ($8.20 p/l),$123.00,37
+PRI-0849,Pavillion Farms,0,HF 559 200L ($21.00 p/l),"$4,200.00",37
+PRI-0850,Penske Australia - Edinburgh (ex-MTU Detroit,,HF 315 (15L),$108.00,37
+PRI-0851,Penske Australia - Edinburgh (ex-MTU Detroit,0,HF 133 (15L),$192.00,37
+PRI-0852,Penske Australia - Edinburgh (ex-MTU Detroit,0,HF 198 (15L),$94.50,37
+PRI-0853,Penske Australia - Edinburgh (ex-MTU Detroit,0,HF 305 (15L),$108.00,37
+PRI-0854,Penske Australia - Edinburgh (ex-MTU Detroit,0,HF 305 (20L),$144.00,37
+PRI-0855,Penske Australia - Edinburgh (ex-MTU Detroit,0,HF 307 (20L),$144.00,37
+PRI-0856,Penske Australia - Edinburgh (ex-MTU Detroit,0,HF 315 (L),$7.20,37
+PRI-0857,Penske Australia - Edinburgh (ex-MTU Detroit,0,HF 320 15L (as per PP),$182.00,37
+PRI-0858,Penske Australia - Edinburgh (ex-MTU Detroit,0,HF 740 (20L),$52.00,37
+PRI-0859,Penske Australia - Edinburgh (ex-MTU Detroit,0,TDS CABLE (TT),$174.12,37
+PRI-0860,Penske Australia - Hazelmere,0,HF 1543 (1000L),"$1,275.00",37
+PRI-0861,Plasma Strike Ag Solutions,0,Softener Salt (80 x 15kg Bags),$976.00,37
+PRI-0862,P'Petual Holdings,0,HF 195 IBC,$760.00,38
+PRI-0863,P'Petual Holdings,0,HF 720 15L,$44.25,38
+PRI-0864,P'Petual Holdings,0,HF 730 IBC,"$4,050.00",38
+PRI-0865,P'Petual Holdings,0,HF 865 IBC,"$1,650.00",38
+PRI-0866,P'Petual Holdings,0,IBC rental charge - Refundable on return,$260.00,38
+PRI-0867,PPG Industries,0,HF 245 (per Kg) only Handling units & spra,$9.80,38
+PRI-0868,PPG Industries,377448-Line 2,HF 133 (per Kg) only Handling units & spra,$9.55,38
+PRI-0869,PPG Industries,377448-Line 9,HF 195 (per Kg) only spray booths,$3.95,38
+PRI-0870,PPG Industries,389040-Line 2,HF 133 (20L) only for Weathering Room,$191.00,38
+PRI-0871,PPG Industries,PO 383718,HF 137 (15 L),$272.00,38
+PRI-0872,PPG Industries,PO 383718,HF 149 (per Kg) only Handling units & spra,$11.85,38
+PRI-0873,PPG Industries Australia Pty Ltd - Weathering,0,HF 133 (20 L),$191.00,38
+PRI-0874,Probiotec Pharma,,Additional Microbio Test inc Site Visit,$95.00,38
+PRI-0875,Probiotec Pharma,,HF 133 (15L),$220.50,38
+PRI-0876,Probiotec Pharma,,HF 740 (110L),$320.00,38
+PRI-0877,Probiotec Pharma,,HF 740 (20L),$46.00,38
+PRI-0878,Probiotec Pharma,,HF 860 (15L),$51.50,38
+PRI-0879,Probiotec Pharma,0,HF 133 (20L),$262.00,38
+PRI-0880,Probiotec Pharma,0,HF 165 (1L),$8.40,38
+PRI-0881,Probiotec Pharma,0,HF 195 (15L),$52.28,38
+PRI-0882,Probiotec Pharma,,HF 845 (15L),$292.00,39
+PRI-0883,Probiotec Pharma,,HF 860 (L),$2.18,39
+PRI-0884,Probiotec Pharma,,HF510 (15L),$190.00,39
+PRI-0885,Probiotec Pharma,,HF845 (15L),$292.00,39
+PRI-0886,Programmed Industrial Maintenance - Boeing A,0,Hardness Test,$60.00,39
+PRI-0887,Programmed Industrial Maintenance - Boeing A,0,HF510 (L),$15.12,39
+PRI-0888,Programmed Industrial Maintenance - Boeing A,0,HF840 (L),$10.00,39
+PRI-0889,Programmed Industrial Maintenance - Boeing A,0,Potassium Permanganate - Reagent 21B,$40.00,39
+PRI-0890,Programmed Industrial Maintenance - Boeing A,0,Softener salt (15kg),$8.10,39
+PRI-0891,Programmed Industrial Maintenance - Boeing A,0,Softener Salt per pallet,$389.00,39
+PRI-0892,Programmed Industrial Maintenance - Boeing A,0,Sulphuric Acid - 500mls,$40.00,39
+PRI-0893,Programmed Industrial Maintenance - Boeing A,0,Turbidex Media (MMF 25kg per bag),$80.00,39
+PRI-0894,Programmed Industrial Maintenance - Boeing A,0,Turbidex Media System Control Head Spar,$243.00,39
+PRI-0895,Pulsoni Orchards Pty Ltd,0,HF 195 (L) for Fruit Wash System,$2.80,39
+PRI-0896,Pulsoni Orchards Pty Ltd,0,HF 730 (L) for Fruit Wash System,$4.92,39
+PRI-0897,Puratos,0,HF 510 15L,$320.49,39
+PRI-0898,Pure Foods Eggs,0,HF195 (15L),$31.50,39
+PRI-0899,Qualia Wines,0,HF 133 (15L),$127.50,39
+PRI-0900,Qualia Wines,0,HF 133 (L),$8.50,39
+PRI-0901,Qualia Wines,0,HF 143 (15L),$153.00,39
+PRI-0902,Qualia Wines,0,HF 198 (15L),$103.20,39
+PRI-0903,Qualia Wines,0,HF 198 (L),$6.88,39
+PRI-0904,R Radford & Sons Pty Ltd,,HF 320 (L),$7.95,40
+PRI-0905,R Radford & Sons Pty Ltd,,HF 410 (15 L),$108.75,40
+PRI-0906,R Radford & Sons Pty Ltd,,HF 410 (L),$7.25,40
+PRI-0907,R Radford & Sons Pty Ltd,,HF 532 (15 L),$142.50,40
+PRI-0908,R Radford & Sons Pty Ltd,,HF 532 (L),$9.50,40
+PRI-0909,R Radford & Sons Pty Ltd,,HF 740 (20 L),$63.00,40
+PRI-0910,R Radford & Sons Pty Ltd,,HF 740 (L),$3.15,40
+PRI-0911,R Radford & Sons Pty Ltd,,HF 845 (15 L),$175.00,40
+PRI-0912,R Radford & Sons Pty Ltd,,HF 845 (L),$11.66,40
+PRI-0913,R Radford & Sons Pty Ltd,,HF510 (15L),$280.00,40
+PRI-0914,Rapid Pacific Roll Covering Pty Ltd,0,Boiler Deposit Analysis,$180.00,40
+PRI-0915,Rapid Pacific Roll Covering Pty Ltd,0,Chemical injector,$260.00,40
+PRI-0916,Rapid Pacific Roll Covering Pty Ltd,0,HF 230 (20L),$198.00,40
+PRI-0917,Rapid Pacific Roll Covering Pty Ltd,0,HF 248 (20L),$184.00,40
+PRI-0918,Rapid Pacific Roll Covering Pty Ltd,0,HF 828 (20L),$220.00,40
+PRI-0919,Rapid Pacific Roll Covering Pty Ltd,0,HF 830 (15L),$153.00,40
+PRI-0920,Rapid Pacific Roll Covering Pty Ltd,0,HF 840 (20L),$128.00,40
+PRI-0921,Rapid Pacific Roll Covering Pty Ltd,0,HF 842 (20L),$156.00,40
+PRI-0922,Rapid Pacific Roll Covering Pty Ltd,0,HF 852 (20L),$171.00,40
+PRI-0923,Rapid Pacific Roll Covering Pty Ltd,0,Softener Salt (48 bags per pallet) per bag,$15.20,40
+PRI-0924,REDARC Electronics,50220,HF 510 15L,$95.25,40
+PRI-0925,Reeve Bulk Food Transport Pty Ltd,0,Gloss Wash,"$2,320.00",40
+PRI-0926,Reeve Bulk Food Transport Pty Ltd,0,HF 559 15L,$444.00,40
+PRI-0927,Reeve Bulk Food Transport Pty Ltd,0,HF 720 IBC,"$1,480.00",40
+PRI-0928,Reeve Bulk Food Transport Pty Ltd,0,HF 860 IBC,"$1,340.00",40
+PRI-0929,Ryan Meat Company,,HF 845C (15L) / HF 842 (15L) - Boiler & H,$97.20,41
+PRI-0930,Ryan Meat Company,,HC 2410 - Sanitiser (25L),$97.05,41
+PRI-0931,Ryan Meat Company,,HC 2910 - Acid Foam Cleaner (25L),$144.93,41
+PRI-0932,Ryan Meat Company,,HF 195 (15L),$42.90,41
+PRI-0933,Ryan Meat Company,,HF 558 (10L) - Boiler & Hot Water Loops,$179.40,41
+PRI-0934,Ryan Meat Company,,HF 558 (L) - Boiler & Hot Water Loops,$17.94,41
+PRI-0935,Ryan Meat Company,,HF 810 (IBC),"$1,200.00",41
+PRI-0936,Ryan Meat Company,,HF 830 (L) - Boiler & Hot Water Loops,$3.98,41
+PRI-0937,Ryan Meat Company,,HF 845C (L) / HF 842 (L) - Boiler & HWL,$6.48,41
+PRI-0938,Ryan Meat Company,,Softener Salt (48x15kg bag (Delivery addln,$0.58,41
+PRI-0939,Ryan Meat Company,0,HF 195 (L),$2.86,41
+PRI-0940,Ryan Meat Company,0,HF 230 (20L),$185.00,41
+PRI-0941,Ryan Meat Company,0,HF 230 (L),$9.25,41
+PRI-0942,Ryan Meat Company,0,HF 810 20L,$24.00,41
+PRI-0943,Ryan Meat Company,Closed Loop,HF 559 (L),$19.05,41
+PRI-0944,Ryan Meat Company,Closed Loop,HF 559 (20L),$381.00,41
+PRI-0945,Scalora Packaging,,HF 137 (L),$10.50,41
+PRI-0946,Scalora Packaging,,HF 558 (20L) - CT,$337.00,41
+PRI-0947,Scalora Packaging,,HF 845 (15L) - Boiler,$82.50,41
+PRI-0948,Scalora Packaging,,HF 845 (20L) - Boiler,$110.00,41
+PRI-0949,Scalora Packaging,,Softner Salt - Pallet lots 40 x 25kg bags (pe,$0.58,41
+PRI-0950,Scalora Packaging,0,HF 115 (20L) - CT,$182.00,41
+PRI-0951,Scalora Packaging,0,HF 133 (15L),$135.00,41
+PRI-0952,Scalora Packaging,0,HF 135 (15L) - CT - N/C,$134.55,41
+PRI-0953,Scalora Packaging,0,HF 137 (15 L),$157.00,41
+PRI-0954,Scalora Packaging,0,HF 144 (15L) - CT,$162.00,41
+PRI-0955,Scalora Packaging,0,HF 382 (10L),$85.00,41
+PRI-0956,Scalora Packaging,0,HF 410 (15L) - Boiler,$76.80,41
+PRI-0957,Scalora Packaging,0,HF 558 (L) - CT,$16.85,41
+PRI-0958,Seven Fields Operation - Nutrano Treviso Sunw,,HF133 (15L),$127.50,42
+PRI-0959,Seven Fields Operation - Nutrano Treviso Sunw,,HF133 (20L),$170.00,42
+PRI-0960,Seven Fields Operation - Nutrano Treviso Sunw,,HF143 (15L),$153.00,42
+PRI-0961,Seven Fields Operation - Nutrano Treviso Sunw,,HF198 (15L),$127.50,42
+PRI-0962,Seven Fields Operation - Nutrano Treviso Sunw,,HF312s (15L),$91.50,42
+PRI-0963,Silcar Pty Ltd - NIFM,0,HF532 (KG),$7.20,42
+PRI-0964,SMR Automotive Australia Pty Limited,,HF 133 (20L),$182.40,42
+PRI-0965,SMR Automotive Australia Pty Limited,,HF 320 (15L),$117.90,42
+PRI-0966,SMR Automotive Australia Pty Limited,,HF 510 (15L),$128.10,42
+PRI-0967,SMR Automotive Australia Pty Limited,0,HF 133 (LF2) (L),$9.12,42
+PRI-0968,SMR Automotive Australia Pty Limited,0,HF 137 (RNO) (L),$11.98,42
+PRI-0969,SMR Automotive Australia Pty Limited,0,HF 320 (Polytan) (L),$7.86,42
+PRI-0970,SMR Automotive Australia Pty Limited,0,HF 510 (L),$8.54,42
+PRI-0971,SMR Automotive Australia Pty Limited,0,HF 558 (15L),$150.00,42
+PRI-0972,SMR Automotive Australia Pty Limited,21.95,HF 125 (BCMX) (Kg),$21.95,42
+PRI-0973,Snowy Mountain Laundry,0,HF 230 (20L),$240.00,42
+PRI-0974,Snowy Mountain Laundry,0,HF 295 (20L),$96.00,42
+PRI-0975,Snowy Mountain Laundry,0,HF 410 (15L),$114.00,42
+PRI-0976,Snowy Mountain Laundry,0,Softener Salt (25kg bag),$38.75,42
+PRI-0977,Socobell OEM Pty Ltd - Sunshine,0,HF558 (20L),$396.00,42
+PRI-0978,Socobell OEM Pty Ltd - Sunshine,0,HF628 (20L),$120.00,42
+PRI-0979,Socobell OEM Pty Ltd - Sunshine,0,Microbiol analysis,$130.00,42
+PRI-0980,Southern Midlands Council,,HF 1544 15L,$59.55,43
+PRI-0981,Southern Midlands Council,,HF 195 20L,$33.00,43
+PRI-0982,Southern Midlands Council,,HF 740 20L,$44.00,43
+PRI-0983,Specialised Breeders Australia (SBA),0,HF559 (15L),$375.00,43
+PRI-0984,Specialised Breeders Australia (SBA),0,HF559 (L),$25.00,43
+PRI-0985,Specialty Foods,0,HF295 (L),$6.30,43
+PRI-0986,Specialty Foods,0,HF828 (15L),$111.00,43
+PRI-0987,Specialty Foods,0,HF860 (15L),$57.00,43
+PRI-0988,Specialty Foods,0,Softener salt (25KG) bag,$9.50,43
+PRI-0989,Spotpress Pty Ltd,0,Bag of Activated Carbon - 25kg,$184.00,43
+PRI-0990,Spotpress Pty Ltd,0,Filter bag (each),$38.00,43
+PRI-0991,Spotpress Pty Ltd,0,HF133 (20L),$264.00,43
+PRI-0992,Spotpress Pty Ltd,0,HF558 (20L),$262.00,43
+PRI-0993,Stamford Grand,,Softener salt (15KG) per bag,$6.88,43
+PRI-0994,Stamford Plaza,glass,Softener Salt - 15KG Perbag,$6.88,43
+PRI-0995,Stratco Pty Ltd,0,HF 133 (20L),$178.00,43
+PRI-0996,Stratco Pty Ltd,0,HF 139 (20 L),$186.00,43
+PRI-0997,Stratco Pty Ltd,0,HF 558 (20 L),$378.00,43
+PRI-0998,Sutton Refrigeration Premier Fruits Internation,,HF 143 (15L) Old pricing,$153.00,44
+PRI-0999,Sutton Refrigeration Premier Fruits Internation,,HF 144 (15LT) Old pricing,$147.00,44
+PRI-1000,Sutton Refrigeration Premier Fruits Internation,,HF 198 (15L),$121.80,44
+PRI-1001,Sutton Refrigeration Premier Fruits Internation,,HF 198 (L),$8.12,44
+PRI-1002,Sutton Refrigeration Premier Fruits Internation,,HF 312 (15L),$123.30,44
+PRI-1003,Sutton Refrigeration Premier Fruits Internation,,HF 532 (20L) Old pricing,$133.00,44
+PRI-1004,Sutton Refrigeration Premier Fruits Internation,,HF 558 (10L) Old pricing,$160.50,44
+PRI-1005,Sweet Amber Brewing Co,,HF 565 (20L),$125.00,44
+PRI-1006,Sweet Amber Brewing Co,,HF 860 (15L),$45.00,44
+PRI-1007,Sweet Amber Brewing Co,0,HC 2445 (L),$4.90,44
+PRI-1008,Sweet Amber Brewing Co,0,HF 565 (L) - From 16/5/19,$6.25,44
+PRI-1009,Sweet Amber Brewing Co,0,HF 860 (L),$3.00,44
+PRI-1010,Sweet Amber Brewing Co,0,HF1240Q (L),$5.80,44
+PRI-1011,Tabro Meat Pty Ltd,0,Ferric Chloride (IBC) - HF1525,"$2,386.62",44
+PRI-1012,Tabro Meat Pty Ltd,0,HF 1537 (KG),$9.92,44
+PRI-1013,Tabro Meat Pty Ltd,0,HF 1539 (KG),$9.20,44
+PRI-1014,Tabro Meat Pty Ltd,0,HF 1550 (KG),$9.20,44
+PRI-1015,Tabro Meat Pty Ltd,0,HF 191 (IBC),"$3,590.00",44
+PRI-1016,Tabro Meat Pty Ltd,0,HF 3093 (IBC),"$4,120.00",44
+PRI-1017,Tabro Meat Pty Ltd,0,HF 690 (25KG),$190.00,44
+PRI-1018,Tabro Meat Pty Ltd,0,HF 690 (IBC),"$4,773.00",44
+PRI-1019,Tabro Meat Pty Ltd,0,HF 691 (25L),$330.00,44
+PRI-1020,Tabro Meat Pty Ltd,0,HF 693 (IBC),"$4,954.00",44
+PRI-1021,Tabro Meat Pty Ltd,0,HF 693 (L) (25L),$17.20,44
+PRI-1022,Tabro Meat Pty Ltd,0,HF 720 (IBC),"$1,320.00",44
+PRI-1023,Tabro Meat Pty Ltd,0,HF 749 (IBC),"$1,840.00",44
+PRI-1024,Tabro Meat Pty Ltd,0,HF 805P (LIME) - 60 X 20KG BAGS,"$1,625.25",44
+PRI-1025,Tabro Meat Pty Ltd,0,HF 805P (LIME) PER KG,$1.08,44
+PRI-1026,Tasmanian Food - Pyengana Dairy,,Dishbrite 15L,$157.50,45
+PRI-1027,Tasmanian Food - Pyengana Dairy,,HF 195 15L Divosan Hypochlorite,$70.50,45
+PRI-1028,Tasmanian Food - Pyengana Dairy,,HF 691 (25Kg),$131.00,45
+PRI-1029,Tasmanian Food - Pyengana Dairy,,HF 730 (15L),$90.75,45
+PRI-1030,Tasmanian Food - Pyengana Dairy,,HF195 (15L) Hydro 360,$40.50,45
+PRI-1031,Tasmanian Food - Pyengana Dairy,,Interact AT 20L,$160.85,45
+PRI-1032,Tasmanian Food - Pyengana Dairy,,Metho (20L),"$1,440.00",45
+PRI-1033,Tasmanian Food - Pyengana Dairy,,Pereactic Acid (25Kg),$131.00,45
+PRI-1034,Tasmanian Food - Pyengana Dairy,,Protex - Sanitiser 15L,$109.76,45
+PRI-1035,Tasmanian Food - Pyengana Dairy,,Rapid Dry - Rinse Plus 15L,$147.75,45
+PRI-1036,Tasmanian Food - Pyengana Dairy,,Saraya Foam Foaming hand soap 8 x1.2L,$167.41,45
+PRI-1037,Tasmanian Food - Pyengana Dairy,,Saraya Instant mist Hand Sanitiser 2 x 1.2L,$151.80,45
+PRI-1038,Tasmanian Food - Pyengana Dairy,,Spectra Washing powder 10kg tub,$135.45,45
+PRI-1039,Tasmanian Food - Pyengana Dairy,,Spring - Dishwashing Liquid 15L,$88.94,45
+PRI-1040,Tasmanian Food - Pyengana Dairy,,"Syp 10 - 10"" 10-micron cartridges (each)",$8.50,45
+PRI-1041,Tasmanian Food - Pyengana Dairy,,Trimove (15L),$145.00,45
+PRI-1042,Tasmanian Food - Pyengana Dairy,,Voclean - Triclean 3 x 5L carton,$181.43,45
+PRI-1043,Tasmech Refrigeration - GrapeCo Australia,0,HF 133 (15) ($10.20 p/l),$153.00,45
+PRI-1044,Tasmech Refrigeration - GrapeCo Australia,0,HF 198 (15L) ($6.88 p/l),$103.20,45
+PRI-1045,Tasmech Refrigeration - GrapeCo Australia,0,HF 312 (15L) ($7.15 p/l),$107.25,45
+PRI-1046,Tasmech Refrigeration - James Transport,0,HF 133 (15L),$147.00,45
+PRI-1047,Tasmech Refrigeration - James Transport,0,HF 198 (15L),$103.20,45
+PRI-1048,Tasmech Refrigeration - James Transport,0,HF 312 (10L),$64.50,45
+PRI-1049,Tasmech Refrigeration - James Transport,0,HF 312s (15L),$96.75,45
+PRI-1050,Tasmech Refrigeration - James Transport,0,HF143 ((15L),$153.00,45
+PRI-1051,Tatura Abattoirs P/L - Gathercole's (Martin Str,,HF 558 (L),$16.80,45
+PRI-1052,Textor Converting,0,HF245 (15L),$135.00,46
+PRI-1053,Textor Converting,0,HF740 (L),$4.50,46
+PRI-1054,Textor Converting,0,HF860 (L),$4.50,46
+PRI-1055,Textor Technologies,,HF 338 (L) - NA,$18.80,46
+PRI-1056,Textor Technologies,,HF 558 (20L) - Fr Dec-20,$420.00,46
+PRI-1057,Textor Technologies,,HF 628 (20L) - Fr Dec-20,$114.00,46
+PRI-1058,Textor Technologies,907731,Hardness LR Tablets,$80.00,46
+PRI-1059,Textor Technologies,907731,HF 133 (20L) - NA,$256.00,46
+PRI-1060,Textor Technologies,907731,HF 230 (20L) - NA,$190.00,46
+PRI-1061,Textor Technologies,907731,HF 275 (20L) - NA,$295.00,46
+PRI-1062,Textor Technologies,907731,HF 530 (20L) - NA,$154.00,46
+PRI-1063,Textor Technologies,907731,HF 558 (20L) - NA,$366.00,46
+PRI-1064,Textor Technologies,907731,HF 628 (20L) - NA,$102.00,46
+PRI-1065,Textor Technologies,907731,HF 828 (15L) - NA,$165.00,46
+PRI-1066,Textor Technologies,907731,HF 830 (15L) - NA,$111.00,46
+PRI-1067,Textor Technologies,907731,HF 842 (15L) - NA,$156.00,46
+PRI-1068,Textor Technologies,907731,HF 845 (20L) - NA,$132.00,46
+PRI-1069,Textor Technologies,907731,HF 852 (15L) - NA,$171.00,46
+PRI-1070,Textor Technologies,907731,Molybdate Test Kit,$196.00,46
+PRI-1071,Textor Technologies,907731,Water Meter 25mm,$350.00,46
+PRI-1072,The Albert Brewery Pty Ltd. (ex-Boekamp Brew,,HC 2832 (1000L/Pallet Price),"$1,974.00",46
+PRI-1073,The Albert Brewery Pty Ltd. (ex-Boekamp Brew,,Softener Salt (per bag),$15.02,46
+PRI-1074,The Albert Brewery Pty Ltd. (ex-Boekamp Brew,0,HC 2810 (1000L/pallet price),"$2,002.00",46
+PRI-1075,The Albert Brewery Pty Ltd. (ex-Boekamp Brew,0,HF 295 (20L) - Boiler,$104.00,46
+PRI-1076,The Albert Brewery Pty Ltd. (ex-Boekamp Brew,0,HF 410 (15L) - Boiler,$117.00,46
+PRI-1077,The Suburban Brew,,Softener Salt,$9.50,47
+PRI-1078,The Trustee for Estate One Sub Trust -CBRE (,0,"20"" Bag Filter Polyprop Filter 200 Micron(10",$700.00,47
+PRI-1079,The Trustee for Estate One Sub Trust -CBRE (,0,HF 165 (L) (Rain Water tank only),$15.75,47
+PRI-1080,The Trustee for Estate One Sub Trust -CBRE (,0,HF 165(20 L)- Biodispersant (Rain water ta,$315.00,47
+PRI-1081,The Trustee for Estate One Sub Trust -CBRE (,0,HF 195 (15 L) - Sodium Hypochlorite (Rain,$95.00,47
+PRI-1082,The Trustee for Estate One Sub Trust -CBRE (,0,HF 195 (L) (Rain water tank only),$6.33,47
+PRI-1083,The Trustee for Estate One Sub Trust -CBRE (,0,HF 860 (20 L) - Caustic (Rain water tank on,$60.00,47
+PRI-1084,The Trustee for Estate One Sub Trust -CBRE (,0,HF 860 (L) (Rain water tank only),$3.00,47
+PRI-1085,The Victoria Carpet Company Pty Ltd,,HF 144 (15Lt),$192.00,47
+PRI-1086,The Victoria Carpet Company Pty Ltd,0,3.78,$256.00,47
+PRI-1087,The Victoria Carpet Company Pty Ltd,0,HF 133 - 133D (20L),$256.00,47
+PRI-1088,The Victoria Carpet Company Pty Ltd,0,HF 137 (20L),$496.00,47
+PRI-1089,The Victoria Carpet Company Pty Ltd,0,HF 1542 (15L),$88.50,47
+PRI-1090,The Victoria Carpet Company Pty Ltd,0,HF 1542L (15L),$33.00,47
+PRI-1091,The Victoria Carpet Company Pty Ltd,0,HF 165 (20L),$242.00,47
+PRI-1092,The Victoria Carpet Company Pty Ltd,0,HF 195 (15L),$62.00,47
+PRI-1093,The Victoria Carpet Company Pty Ltd,0,HF 198 (15Lt),$98.00,47
+PRI-1094,The Victoria Carpet Company Pty Ltd,0,HF 230 (20L),$162.00,47
+PRI-1095,The Victoria Carpet Company Pty Ltd,0,HF 322 (15Lt),$0.00,47
+PRI-1096,The Victoria Carpet Company Pty Ltd,0,HF 322 (20Lt),$256.00,47
+PRI-1097,The Victoria Carpet Company Pty Ltd,0,HF 510 (15L),$140.00,47
+PRI-1098,The Victoria Carpet Company Pty Ltd,0,HF 530 (20L),$184.00,47
+PRI-1099,The Victoria Carpet Company Pty Ltd,0,HF 558 (20Lt),$378.00,47
+PRI-1100,The Victoria Carpet Company Pty Ltd,0,HF 835 / 830 (15L),$108.00,47
+PRI-1101,The Victoria Carpet Company Pty Ltd,0,HF 842 (20L),$142.00,47
+PRI-1102,The Victoria Carpet Company Pty Ltd,0,HF 845 (20L),$162.00,47
+PRI-1103,The Victoria Carpet Company Pty Ltd,0,HF 852 (20L),$125.00,47
+PRI-1104,The Victoria Carpet Company Pty Ltd,0,HF 860 (15L),$48.00,47
+PRI-1105,The Victoria Carpet Company Pty Ltd (Bendigo,,HF 275 (15L),$177.00,48
+PRI-1106,The Wicked Cheese Company,0,845C 15L,$183.00,48
+PRI-1107,Tip Top Bakeries,0,HF 295 (20L),$122.00,48
+PRI-1108,Tip Top Bakeries,0,HF 828 (15L),$123.00,48
+PRI-1109,Tip Top Bakeries,0,HF 830 (15L),$73.00,48
+PRI-1110,Tip Top Bakeries,0,Softener Salt - 15KG bags (Pallet) 80per ba,$864.00,48
+PRI-1111,Tip Top Bakeries,0,Softener Salt 15KG bags,$10.80,48
+PRI-1112,Treasury Wine Estates - Seppelt Great Western,0,HF 133 (15L),$153.00,48
+PRI-1113,Treasury Wine Estates - Seppelt Great Western,0,HF 143 (15L),$153.00,48
+PRI-1114,Treasury Wine Estates - Seppelt Great Western,0,HF 198 (15L),$103.20,48
+PRI-1115,Treasury Wine Estates - Seppelt Great Western,0,HF 312s (15L),$96.75,48
+PRI-1116,Treasury Wine Estates - Seppelt Great Western,0,HF 532 (20L),$133.00,48
+PRI-1117,Treasury Wine Estates - Seppelt Great Western,0,HF 558 (10L),$160.50,48
+PRI-1118,Tumut Grove Citrus,0,HF 195 15L,$28.00,48
+PRI-1119,Tumut Grove Citrus,0,HF 730 15L,$46.00,48
+PRI-1120,Tyrecycle Pty Ltd,,HF 133 (20L),$216.00,48
+PRI-1121,Tyrecycle Pty Ltd,,HF 532 (20L) HF 510 (15L) $285.00,$220.00,48
+PRI-1122,Udder Delights Australia Pty Ltd,0,HF 230 15Lt,$192.00,48
+PRI-1123,Udder Delights Australia Pty Ltd,0,HF 828 15L,$91.50,48
+PRI-1124,University of Melbourne - Dookie Campus,,HF1543 (Bulk IBC),"$2,050.00",49
+PRI-1125,University of Melbourne - Dookie Campus,,HF1543 (L),$4.12,49
+PRI-1126,University of Melbourne - Dookie Campus,,HF195 (L),$2.29,49
+PRI-1127,University of Melbourne - Dookie Campus,,HF860 (L) for 110L drums,$2.01,49
+PRI-1128,University of Melbourne - Dookie Campus,,HF 1541L (15L) ($4.22/L),$63.30,49
+PRI-1129,University of Melbourne - Dookie Campus,,HF 195 (15L) ($2.29/L),$34.35,49
+PRI-1130,University of Melbourne - Dookie Campus,,HF 740 (15L),$67.50,49
+PRI-1131,University of Melbourne - Dookie Campus,,HF 860 (15L),$82.50,49
+PRI-1132,University of Melbourne - Dookie Campus,,UF Bag Filters (1-200 Micron bags) (ea),$16.50,49
+PRI-1133,University of Melbourne - Dookie Campus,0,HF 559 (15L),$470.25,49
+PRI-1134,University of Melbourne - Dookie Campus,0,HF 559 (L),$31.35,49
+PRI-1135,University of Melbourne - Dookie Campus,0,HF 730 (L),$4.50,49
+PRI-1136,University of Melbourne - Dookie Campus,0,UF Filter Bags - 25 Micron (ea),$16.50,49
+PRI-1137,Valley Pack Pty Ltd,0,HF 558 (15L),$258.00,49
+PRI-1138,Valley Star Pty Ltd - Lemnos,0,HF 133 (15L),$115.00,49
+PRI-1139,Valley Star Pty Ltd - Lemnos,0,HF 133 (20L),$143.60,49
+PRI-1140,Valley Star Pty Ltd - Lemnos,0,HF 133 (L),$7.18,49
+PRI-1141,Valley Star Pty Ltd - Lemnos,0,HF 195 (15L)- NO LONGER USED,$44.25,49
+PRI-1142,Valley Star Pty Ltd - Lemnos,0,HF 195 (L)- NO LONGER USED,$2.95,49
+PRI-1143,Valley Star Pty Ltd - Lemnos,0,HF 198 (15L),$88.50,49
+PRI-1144,Valley Star Pty Ltd - Lemnos,0,HF 198 (L),$5.90,49
+PRI-1145,Valley Star Pty Ltd - Lemnos,0,HF 322 (15L),$99.00,49
+PRI-1146,Valley Star Pty Ltd - Lemnos,0,HF 322 (L),$6.60,49
+PRI-1147,Valley Star Pty Ltd - Lemnos,0,HF307 (20L) TT same as Grahamvale's pri,$116.00,49
+PRI-1148,VIP Packaging - Laverton North (Pact Group),0,Clean of wetted pads,$658.00,49
+PRI-1149,Visy Board Pty Ltd - Coolaroo,PO supplied,HF805 (IBC) Lime Slurry,"$1,295.00",50
+PRI-1150,Visy Food Can (Visy Food Packaging),0,HF 559 (20 L),$592.00,50
+PRI-1151,Visy Food Can (Visy Food Packaging),0,HF 559 (L),$29.60,50
+PRI-1152,"Visy Glass - Penrith (ex-O-I Australia, ACI Ope",0,HF 133,$186.00,50
+PRI-1153,Visy Glass - Spotswood (ex-O-I Melbourne Plant,,HF 115 per ltr,$12.90,50
+PRI-1154,Visy Glass - Spotswood (ex-O-I Melbourne Plant,,HF 1245 (Kg) Antifoam,$18.80,50
+PRI-1155,Visy Glass - Spotswood (ex-O-I Melbourne Plant,,HF 137 per ltr,$27.25,50
+PRI-1156,Visy Glass - Spotswood (ex-O-I Melbourne Plant,,HF 138 per ltr,$13.35,50
+PRI-1157,Visy Glass - Spotswood (ex-O-I Melbourne Plant,,HF 139 per ltr,$6.65,50
+PRI-1158,Visy Glass - Spotswood (ex-O-I Melbourne Plant,,HF 165 per ltr,$8.80,50
+PRI-1159,Visy Glass - Spotswood (ex-O-I Melbourne Plant,,HF 168 per ltr,$6.79,50
+PRI-1160,Visy Glass - Spotswood (ex-O-I Melbourne Plant,,HF 195 per ltr (FOR 15L DRUMS),$1.60,50
+PRI-1161,Visy Glass - Spotswood (ex-O-I Melbourne Plant,,HF 195 per lts (FOR 200L DRUMS),$0.92,50
+PRI-1162,Visy Glass - Spotswood (ex-O-I Melbourne Plant,,HF 198 per ltr,$6.80,50
+PRI-1163,Visy Glass - Spotswood (ex-O-I Melbourne Plant,,HF 245 (L) (Fr 25/09/18),$8.90,50
+PRI-1164,Visy Glass - Spotswood (ex-O-I Melbourne Plant,,HF 260 per ltr,$8.95,50
+PRI-1165,Visy Glass - Spotswood (ex-O-I Melbourne Plant,,HF 305 per ltr,$7.30,50
+PRI-1166,Visy Glass - Spotswood (ex-O-I Melbourne Plant,,HF 315 per ltr,$7.30,50
+PRI-1167,Visy Glass - Spotswood (ex-O-I Melbourne Plant,,HF 320 per ltr,$6.85,50
+PRI-1168,Visy Glass - Spotswood (ex-O-I Melbourne Plant,,HF 330 per ltr,$8.10,50
+PRI-1169,Visy Glass - Spotswood (ex-O-I Melbourne Plant,,HF 510 per ltr,$9.30,50
+PRI-1170,Visy Glass - Spotswood (ex-O-I Melbourne Plant,,HF 530 per ltr,$5.80,50
+PRI-1171,Visy Glass - Spotswood (ex-O-I Melbourne Plant,,HF 532 per ltr,$6.05,50
+PRI-1172,Visy Glass - Spotswood (ex-O-I Melbourne Plant,,HF 558 per ltr,$17.90,50
+PRI-1173,Visy Glass - Spotswood (ex-O-I Melbourne Plant,,HF 628 per ltr,$7.50,50
+PRI-1174,Visy Glass - Spotswood (ex-O-I Melbourne Plant,,HF 740 per ltr,$3.00,50
+PRI-1175,Visy Glass - West Croydon (ex-O-I Australia),,HF 320QT 15L,$168.00,51
+PRI-1176,Visy Glass - West Croydon (ex-O-I Australia),,HF 510 (15L),$125.00,51
+PRI-1177,Visy Glass - West Croydon (ex-O-I Australia),,HF 860 15L,$74.00,51
+PRI-1178,Visy Glass - West Croydon (ex-O-I Australia),,HF125 (25KG),$300.00,51
+PRI-1179,Visy Glass - West Croydon (ex-O-I Australia),,HF133 (20L),$168.00,51
+PRI-1180,Visy Glass - West Croydon (ex-O-I Australia),,HF137 (15L),$144.38,51
+PRI-1181,Visy Glass - West Croydon (ex-O-I Australia),,HF138 (15L),$129.00,51
+PRI-1182,Visy Glass - West Croydon (ex-O-I Australia),,HF139 (20L),$133.00,51
+PRI-1183,Visy Glass - West Croydon (ex-O-I Australia),,HF198 (15L),$104.50,51
+PRI-1184,Visy Glass - West Croydon (ex-O-I Australia),,HF260 (15L),$119.00,51
+PRI-1185,Visy Glass - West Croydon (ex-O-I Australia),,HF260 (20L),$154.00,51
+PRI-1186,Visy Glass - West Croydon (ex-O-I Australia),,HF305(15L),$123.00,51
+PRI-1187,Visy Glass - West Croydon (ex-O-I Australia),,HF307 (20L),$164.00,51
+PRI-1188,Visy Glass - West Croydon (ex-O-I Australia),,HF558 (15L),$366.60,51
+PRI-1189,Visy Glass - West Croydon (ex-O-I Australia),,HF740 (10L),$30.00,51
+PRI-1190,Visy Glass - West Croydon (ex-O-I Australia),,HF950 (20L),$284.00,51
+PRI-1191,Visy Recycling - Geelong,0,HF133 (15L),$208.32,51
+PRI-1192,Visy Recycling - Geelong,0,HF558 (20L),$424.00,51
+PRI-1193,Visy Recycling - Springvale,,HF 133 (15L),$192.00,51
+PRI-1194,Visy Recycling - Springvale,,HF 133 (20L),$256.00,51
+PRI-1195,Visy Recycling - Springvale,,HF 558 (15L),$298.50,51
+PRI-1196,Visy Recycling - Springvale,,HF 628 (20L),$120.00,51
+PRI-1197,VisyPak Food Plastics,,10 micron filter bag,$38.00,51
+PRI-1198,VisyPak Food Plastics,,HF 558 (20L),$0.00,51
+PRI-1199,VisyPak Food Plastics,0,HF 198 15L,$276.00,51
+PRI-1200,Viva Energy Australia - Pty Ltd (ex-A. Schulma,0,HF740 (L),$8.00,52
+PRI-1201,Viva Energy Geelong Refinery,,HF 115B (110L),$924.00,52
+PRI-1202,Viva Energy Geelong Refinery,,HF 115B (20L),$168.00,52
+PRI-1203,Viva Energy Geelong Refinery,,HF 138 (20L),$191.00,52
+PRI-1204,Viva Energy Geelong Refinery,,HF 198 (110L),$616.00,52
+PRI-1205,Viva Energy Geelong Refinery,,HF 198 (15L),$84.00,52
+PRI-1206,Viva Energy Geelong Refinery,,HF 305MF (110L),$869.00,52
+PRI-1207,Viva Energy Geelong Refinery,,HF 305MF (20L),$158.00,52
+PRI-1208,Viva Energy Geelong Refinery,,HF 740 (110L),$167.20,52
+PRI-1209,Viva Energy Geelong Refinery,0,HF 138 (L),$9.55,52
+PRI-1210,Viva Energy Geelong Refinery,0,HF 198 (L),$5.60,52
+PRI-1211,Viva Energy Geelong Refinery,0,HF 295 (L),$4.85,52
+PRI-1212,Viva Energy Geelong Refinery,0,HF 305MF (L),$7.90,52
+PRI-1213,Viva Energy Geelong Refinery,0,HF 630 (L),$5.60,52
+PRI-1214,Viva Energy Geelong Refinery,0,HF 720 (L),$1.52,52
+PRI-1215,Viva Energy Geelong Refinery,0,HF 740 (L),$1.52,52
+PRI-1216,Viva Energy Geelong Refinery,0,HF 950 (L),$14.86,52
+PRI-1217,Viva Energy Geelong Refinery,0,Total chlorine cap,$290.00,52
+PRI-1218,Viva Energy Geelong Refinery,f,HF 115 (L) & HF 115B (L),$8.40,52
+PRI-1219,WA Country Health Service - Kalgoorlie Hospit,0,Deionising Resin MB400 Mixed Red Resin,$500.00,52
+PRI-1220,Weilong Wines,,HF 320S (L),$6.45,52
+PRI-1221,Weilong Wines,,HF 144 (15L),$144.00,52
+PRI-1222,Weilong Wines,,HF 144 (L),$9.80,52
+PRI-1223,Western Tiers Protein,,HF 1570 25 Kg pail ($10.77pER kg),$269.25,53
+PRI-1224,Western Tiers Protein,,HF 530 20L,$158.00,53
+PRI-1225,Western Tiers Protein,,HF 720 15L,$63.00,53
+PRI-1226,Western Tiers Protein,,Pulse output water meter - Installed by othe,$350.00,53
+PRI-1227,Wing Plastics Pty Ltd,0,HF 510 (15L),$89.25,53
+PRI-1228,Wing Plastics Pty Ltd,0,HF 558 (15L),$108.75,53
+PRI-1229,Woodward Foods Australia (ex-Swan Hill Abatt,,HF 144 (15L) - Fr Dec-19,$162.00,53
+PRI-1230,Woodward Foods Australia (ex-Swan Hill Abatt,,HF 312s (15lLT),$105.68,53
+PRI-1231,Woodward Foods Australia (ex-Swan Hill Abatt,,HF 320S (15L) - Fr Dec-19,$105.68,53
+PRI-1232,Woodward Foods Australia (ex-Swan Hill Abatt,0,ACTASOLVE (15L),$107.75,53
+PRI-1233,Woodward Foods Australia (ex-Swan Hill Abatt,0,Adphor Emulsifier (15L),$92.18,53
+PRI-1234,Woodward Foods Australia (ex-Swan Hill Abatt,0,Cleanscene (15L),$87.30,53
+PRI-1235,Woodward Foods Australia (ex-Swan Hill Abatt,0,Clorcleen (18KG),$138.00,53
+PRI-1236,Woodward Foods Australia (ex-Swan Hill Abatt,0,Complete Superbowl (15L),$98.16,53
+PRI-1237,Woodward Foods Australia (ex-Swan Hill Abatt,0,Fabrisoft (15L),$87.95,53
+PRI-1238,Woodward Foods Australia (ex-Swan Hill Abatt,0,HC 5410 (Hook Oil) 205L,"$2,201.86",53
+PRI-1239,Woodward Foods Australia (ex-Swan Hill Abatt,0,HF 133 (15L),$158.51,53
+PRI-1240,Woodward Foods Australia (ex-Swan Hill Abatt,0,HF 143 (15LT),$153.00,53
+PRI-1241,Woodward Foods Australia (ex-Swan Hill Abatt,0,HF 1535 (L) (Delivered in IBC's),$2.51,53
+PRI-1242,Woodward Foods Australia (ex-Swan Hill Abatt,0,HF 1541 (L) ( Delivered in IBC's),$3.68,53
+PRI-1243,Woodward Foods Australia (ex-Swan Hill Abatt,0,HF 1544 (1000L),"$2,370.00",53
+PRI-1244,Woodward Foods Australia (ex-Swan Hill Abatt,0,HF 1544 (20 L),$75.40,53
+PRI-1245,Woodward Foods Australia (ex-Swan Hill Abatt,0,HF 1544 (L),$2.37,53
+PRI-1246,Woodward Foods Australia (ex-Swan Hill Abatt,0,HF 1560 (1000L),"$4,765.60",53
+PRI-1247,Woodward Foods Australia (ex-Swan Hill Abatt,0,HF 195 (1000L),"$1,400.00",53
+PRI-1248,Woodward Foods Australia (ex-Swan Hill Abatt,0,HF 195 (110L),$150.70,53
+PRI-1249,Woodward Foods Australia (ex-Swan Hill Abatt,0,HF 195 (15L),$21.70,53
+PRI-1250,Woodward Foods Australia (ex-Swan Hill Abatt,0,HF 195 (200L),$138.00,53
+PRI-1251,Woodward Foods Australia (ex-Swan Hill Abatt,0,HF 195 (L),$0.78,53
+PRI-1252,Woodward Foods Australia (ex-Swan Hill Abatt,,HF 828 (20L),$450.60,54
+PRI-1253,Woodward Foods Australia (ex-Swan Hill Abatt,,HF 828 (L),$22.53,54
+PRI-1254,Woodward Foods Australia (ex-Swan Hill Abatt,,HF 842 (15L),$136.75,54
+PRI-1255,Woodward Foods Australia (ex-Swan Hill Abatt,,HF 842 (L),$5.51,54
+PRI-1256,Woodward Foods Australia (ex-Swan Hill Abatt,,HF 862 (25KG),$94.75,54
+PRI-1257,Woodward Foods Australia (ex-Swan Hill Abatt,,HF 862 (KG),$3.97,54
+PRI-1258,Woodward Foods Australia (ex-Swan Hill Abatt,,Hiclean (15L),$111.30,54
+PRI-1259,Woodward Foods Australia (ex-Swan Hill Abatt,,Highplex (15),$101.79,54
+PRI-1260,Woodward Foods Australia (ex-Swan Hill Abatt,,Hook Oil (205L),"$2,281.13",54
+PRI-1261,Woodward Foods Australia (ex-Swan Hill Abatt,,Hydrogen Peroxide 50% (15L),$169.82,54
+PRI-1262,Woodward Foods Australia (ex-Swan Hill Abatt,,Infrasan (15L),$87.52,54
+PRI-1263,Woodward Foods Australia (ex-Swan Hill Abatt,,Interkleen (15L),$122.87,54
+PRI-1264,Woodward Foods Australia (ex-Swan Hill Abatt,,Oxsan (10KG),$118.92,54
+PRI-1265,Woodward Foods Australia (ex-Swan Hill Abatt,,Perfect (Bowline) (15L),$86.44,54
+PRI-1266,Woodward Foods Australia (ex-Swan Hill Abatt,,Procid (15L),$79.20,54
+PRI-1267,Woodward Foods Australia (ex-Swan Hill Abatt,,Procid (25L),$136.74,54
+PRI-1268,Woodward Foods Australia (ex-Swan Hill Abatt,,Profoam (1000L),"$1,825.92",54
+PRI-1269,Woodward Foods Australia (ex-Swan Hill Abatt,,Sentinel (15L),$69.28,54
+PRI-1270,Woodward Foods Australia (ex-Swan Hill Abatt,,Solocleaner (15L),$109.60,54
+PRI-1271,Woodward Foods Australia (ex-Swan Hill Abatt,,Spectra (25L),$77.14,54
+PRI-1272,Woodward Foods Australia (ex-Swan Hill Abatt,,Standard 50 (25L),$80.30,54
+PRI-1273,Woodward Foods Australia (ex-Swan Hill Abatt,82.6,HF 133 (20L),$151.20,54
+PRI-1274,Yenson's Soya Bean Products (Australia) Pty Lt,0,HF 133 (20L),$325.00,54
+PRI-1275,Yenson's Soya Bean Products (Australia) Pty Lt,0,HF 165 (20L),$240.00,54
+PRI-1276,Yenson's Soya Bean Products (Australia) Pty Lt,0,HF 198 (15L),$149.25,54
+PRI-1277,Yenson's Soya Bean Products (Australia) Pty Lt,0,HF 315 (15L),$123.75,54
+PRI-1278,Yenson's Soya Bean Products (Australia) Pty Lt,0,HF 315 (20L),$165.00,54
+PRI-1279,Yenson's Soya Bean Products (Australia) Pty Lt,0,HF 410 (15L),$148.00,54
+PRI-1280,Yenson's Soya Bean Products (Australia) Pty Lt,0,HF 828 (20L),$215.00,54
+PRI-1281,Yenson's Soya Bean Products (Australia) Pty Lt,0,HF 845 (20L),$179.00,54
+PRI-1282,Yenson's Soya Bean Products (Australia) Pty Lt,0,HF 852 (15L),$71.70,54
+PRI-1283,Yenson's Soya Bean Products (Australia) Pty Lt,0,HF195 (15L) - T.T,$149.25,54
